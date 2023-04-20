@@ -1,0 +1,122 @@
+<title>My First Night MTB Ride</title>
+<h2>My First Night MTB Ride</h2>
+
+<c>19 December 1997</c><p>
+
+For awhile I've been inspired by what others have written (especially
+<a href="http://www.charm.net/~rokslyde/nightride.html">Dave
+McSpaden</a>) to try night-time MTBing. I got my first powerful set of
+lights, a <a href="http://vistalite.web.aol.com/vis2a3.htm">
+VistaLite 430</a> ($100 at REI), on a recent trip to the US. The
+430 consists of two lighting heads that are focusable and have 10W
+bulbs, and a big old heavy lead-acid battery that you have to Velcro
+to the bike somehow.<p>
+
+I attached both lighting heads to the handlebars of my MTB, one either
+side of the stem, and hung the battery from the saddle. I couldn't
+hang it from the top tube since I have three unprotected cables
+running along the tube.  The battery plus my mudguard then took up all
+of my seatpost, so I couldn't put a taillight on it. After some
+thought, I got out my spare
+<a href="http://vistalite.web.aol.com/vis1d.htm">VL700</a> (small but
+very bright LED light) mount and put it on the seatstay. I charged up
+the battery (more on that later) and I was ready to roll.<p>
+
+The Cambridge branch of the 
+<a href="http://www.ctc.org.uk/ctc.html">CTC</a> (Cyclists Touring
+Club, biggest cycle club in Britain) has a mountain bike section that
+meets at 7:20 every Tuesday and Thursday. A friend of mine had gone on
+a couple of their rides and reported that they're good -- they go at a
+nice pace along good trails (well, the best in the area, which
+isn't saying a lot, it being so flat an agricultural around here). I
+emailed one of the regulars to ask him about their rain/snow
+cancellation policy and was told they ride in all weather. So I
+figured I'd give it a try the day after I attached my lights.<p>
+
+It rained all day, a steady tho' not heavy rain. I debated giving it a
+miss, but I really needed to ride, not having done any biking (other
+than commuting) in about two weeks due to being in the States.
+Finally, it stopped raining about an hour before the ride. I showed up
+at 7:20, and no one was there. I waited.  No one showed. At 7:30 I
+decided that I'd head home and go for a short run along the path by
+the river so I woldn't have a wasted evening. I was just about to hop
+on the bike when a guy showed up, obviously ready for night riding. He
+introduced himself as Mike. He'd heard I might be there from the
+fellow I'd mailed. He asked if I'd done much off-roading. I said yup,
+but not yet in the dark.<p>
+
+So we turned on our lights and headed off. I only used one of my
+lighting heads; 10W seemed to be plenty enough light. I easily kept
+up with him on the road, but had to work a bit to stay with him as we
+plowed through extremely wet grassy paths. The best part of the ride
+was going through a patch of woods (which I've known about but never
+done because there are signs on the path leading to the woods saying
+no bikes). This had lots of twists and turns, tree roots and stumps,
+the occasional dip, and low branches to duck under. There wasn't any
+standing water in this part, and therefore no goo, and the riding
+was good. I was having a great time dodging amongst the trees, and
+thought how cool it would be to go through there in summer when it was
+dry and light, and you could go lots faster. But it was damp, and this
+was my first night ride, so I was content to go at the moderate pace
+set by Mike.<p>
+
+I found that the focussed beam I had been riding with until now was
+not good enough -- I couldn't see what was coming around the curves.
+So I unfocused it a bit, making it wider. I lost in ability to see far
+away, but could see much better closer and and off to the sides. It
+was just right for picking out tree roots. Mike had narrow beam
+spotlights mounted on his bike, but had additional lights on his
+helmet, which he used to great advantage in this section.<p>
+
+Coming out of the woods, I refocused the light, as we went on more or
+less straight tracks the rest of the way to the pub, where we met
+another guy and had a beer. I think Mike was impressed by me. He said to
+the other guy "Yeah, we did the full route, even the hard bits!". They
+usually don't get many new riders in the winter, and I was a new rider
+who was actually pretty good both in skills and fitness.  Furthermore,
+I'm a woman, and (as he said), most women aren't into MTBing, and if
+they are they often prefer to do it when it's warm and dry, and
+certainly not at night. So I'm a rarity in their experience.<p>
+
+It turns out that Mike lives near me, so we rode most of the way back
+together. I had a really good ride, and I definitely plan on coming
+out with them again.<p>
+
+Info for electronics fans: the battery is a 5 Amp-hour lead-acid
+battery, which will run one light (10W) for 3 hours, or both (20W) for
+1.5 hours. It's basically a couple of power cords attached to a 3-cell
+Cyclon monobloc make by Hawker Energy. The lighting set comes with a
+stupid charger that charges the battery in 12 hours. If you don't
+unplug it after 12 hours, the instructions say you can damage the
+battery. But if you don't fully discharge it, you have to cut back the
+amount of recharge time proportionally. I can't be bothered with
+that. Luckily, my boyfriend Simon is an electronics whiz and some
+number of years ago had built a smart charger for lead acid
+batteries. Actually, it's not all that complicated, 
+<a href="charger.html">here's</a> how to build it. It has a chip in
+it called an L200 which provides constant voltage, with a limit on the
+current.  In order to prevent the current from exceeding the limit, it
+will lower the voltage as necessary to keep it in bounds.<p>
+
+We modifed this charger to work with my battery. Mainly, this involved
+installing a socket that matches the power plug on my VistaLite
+battery. Using a ruler we found that the plug is a standard power
+jack, 5.5mm external diamger, 2.5mm internal diameter, and we found
+the appropriate socket at Radio Shack (Tandy). Also, since the
+<a href="http://www.hepi.com/products/cyclon/cyccharg.htm">charging info
+</a> on the batteries says that you don't really need to limit the
+current if you're charging it at the right (floating) voltage (about
+2.3 V/cell), we figured that we'd raise the current limit on the
+circuit by replacing the appropriate resistors. We set it to about
+1 amp.<p>
+
+And then we plugged in the battery, which had been shipped with some
+charge in it, but we didn't know how much. We monitored the voltage
+and current as it charged.  First the voltage was lower than the 6.9 V
+we set it for, as the current was being limited. Gradually the voltage
+increased as the battery filled up some. Eventually it reached 6.9 V,
+then gradually the current dropped. We left it plugged in overnight.
+In the morning we found it all charged up, with the red LED that
+Simon had installed (meaning, charging has stopped)
+glowing. Success!<p>
+

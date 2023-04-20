@@ -1,0 +1,84 @@
+From: "Mark  Alker" <Mark@?alker?.softnet.co.uk>
+Subject: Memory does exist
+Date: 06 Nov 1998 00:00:00 GMT
+Organization: Customer of Planet Online
+Newsgroups: uk.rec.cycling
+
+Its true.  The so called memory effect of Nicad batteries does exist.
+However the label 'memory' has come to refer to a different phenomenon than
+its original meaning.  It used to refer to what is known as Cyclic Memory.
+This is the seeming ability of a battery to remember how much discharge was
+required on previous discharges!?(if you dont use up all the cells capacity
+then it wont charge up fully next time).  Research by Black n Decker !? has
+shown that with the vast majority of modern Nicad cells this effect is now
+so small as to be negligable.
+
+So now the label 'Memory' has been tagged on to a further problem
+associated with Nicad batteries.  This 'new' phenomenon is Crystal
+Formation.  Nickel and cadmium are present in crystaline form within
+cells.  The smaller these crystals are the better the performance of
+the cell.  However over a period of charge - discharge cycles, these
+crystals can grow.  When this happens the effective surface area of
+the crystal component is reduced which reduces cell performance.  This
+is what WE (ie MTBrs) know as the memory effect.  When this happens
+the 'effective' capacity of our batteries is reduced (Really the
+capacity stays the same but the voltage is reduced [hence the more
+proper term for the effect "voltage depression"]. The result is the
+same..... dim lights)
+
+The main cause of this crystal growth is when batteries are left in a
+charger on trickle charge for days or if they are constantly 'topped up'
+with charge. [Ie, the memory effect is caused by overcharging.]
+
+There is a way to prevent this crystal growth from getting out of control.
+What we should ALL do to care for our batteries is not necessarily rush out
+and buy a Smart charger although this would be the easiest way to look after
+them.  WE SHOULD ALL REGULARLY DISCHARGE OUR BATTERIES.  Now hold on, hasn't
+it been frequently said here that this should not be done?  Well let me
+define what is meant by 'discharge'.  In 'the industry' discharge does NOT
+mean flat!  As has been said here by Myra and Matt and others, running
+batteries until they are completely flat will damage them, be they Nicad,
+NiMh or Lead Acid.  Discharged means technically down to 1volt per cell.
+For our lighting purposes this means when the lights start to yellow its
+time to recharge.
+
+Now its not necesary to run lights until they are yellow prior to each and
+every charge.  If you use your lights to commute every day, then its ok to
+simply 'top them up' each evening so long as say once per week you make sure
+that you discharge them to the yellow stage before charging.
+What this discharging method actually does is break down the large crystals
+into nice small pieces again.
+
+So buy a smart charger if you want.  Me? I think I will spend that money
+elsewhere and simply follow these guidelines.....
+
+1)  Follow the charging instructions that come with the lights BUT not panic
+if I leave them on charge for 4/5 hours longer than I should do.
+
+2)  After 4th/5th ride make sure I discharge them to the yellow stage before
+putting them on charge just to break up any of them there sneaky large
+crystals.
+
+Nb  if you 'yellow' out your lights on every ride then so much the better.
+
+So there's two fingers up at Smart chargers.
+
+--------------------------------
+
+Myra's summary:
+
+(1) Fast charging your NiCads can kill them unless you're really
+careful (watching temperature).
+
+(2) Slow charging can still cause some minor damage (the crystal
+growth that Mark describes), resulting in voltage depression, which
+can leave you with lights that are dimmer than you expect.
+
+(3) To avoid problems with crystal growth, either use a smart charger
+to prevent overcharging, or occasionally discharge to yellow, as Mark
+describes.
+
+(4) Under no circumstances is it good to completely and totally
+discharge a NiCad battery (that is, several cells in series).  It is
+perfectly fine to completely discharge a NiCad cell (one little
+cylinder, typically AA or C or D size).

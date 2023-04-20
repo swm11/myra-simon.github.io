@@ -1,0 +1,255 @@
+<html>
+<head>
+<title>Review of The Bicycle Wheel</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1> Review of <i>The Bicycle Wheel</i> </h1>
+
+<blockquote>
+
+<blockquote>
+
+<p> Jobst Brandt's book <i>The Bicycle Wheel</i> is a classic. Despite
+being fairly old (first published in 1981) the information remains up
+to date, and it applies just as well to mountain bike wheels as to
+road wheels. The writing is terse and dry, but the information is
+valuable enough to make it worth a read for beginner and experienced
+wheelbuilders alike. </blockquote>
+
+</blockquote>
+<blockquote>
+
+<p> The book has three parts. Part I discusses the various aspects of
+wheelbuilding. These include choice of materials as well as different
+numbers of spokes and lacing patterns. For each aspect, Brandt
+discusses a number of alternatives, then states his preferred method
+and gives reasons for his preference. However, he gives you the
+information you need to allow you to construct wheels with any method
+and materials you choose. </p>
+
+<p> Part II is a step by step guide to building wheels.  Here he
+sometimes restates the conclusions he came to in the first section and
+shows how the steps give the correct result. Part III is the most
+technical one. He shows his test apparatus and describes the
+experiments and theoretical analysis he did to derive the results
+presented earlier. </p>
+
+<p> All through the writing is precise and direct. No attempt has been
+made to try to make the book fun to read. This is a valid approach to
+the subject, but in my experience the addition of the occasional story
+and joke can help make technical material more digestable. It's still
+perfectly readable, but it's not as enjoyable as it might have been
+had a few lighthearted bits been included.
+</p>
+
+</blockquote>
+
+<h4>Great drawings and tech info, but could use a few more words in
+places.</h4>
+
+<blockquote>
+
+<p> One of the best features of this book is the multitude of
+drawings. They help greatly in explaining the concepts. For example,
+Figure 45 below shows a partially laced wheel with the third set of
+spokes inserted but not yet laced. It clearly shows (in the book,
+although not necessarily in the reproduction shown here) which side
+of the flanges the spoke heads are on, which side of the hub is the
+drive side (the side with the threads), which spokes cross which other
+ones, and the offset of the spoke holes in the rim. </p>
+
+<center><table border=0 align=center>
+<tr><td align="center">
+<IMG SRC="images/fig45.gif" alt="drawing of partially laced wheel" 
+     ALIGN="LEFT" BORDER="0" hspace="10">
+</td></tr>
+<tr><td align="center"><i>Figure 45</i></td></tr>
+</table> </center>
+
+<p> These line drawings are far clearer than a photograph could
+be. Consider a photograph of a wheel in the same state as the drawing
+above. The photo would show a silver rim, silver spokes, silver
+nipples, and a silver hub, and you wouldn't be able to distinguish
+anything. Furthermore, you wouldn't be able to see the offset of the
+spoke holes as well in the photo, since they have been exaggerated in
+the drawing. </p>
+
+<p> Another positive feature of the book is the great wealth of
+technical information.  Most of the descriptions given, although
+terse, explain clearly what's going on. This is true even when the
+concepts are non-intuitive, such as "a wheel supports its load on the
+bottom few spokes". This may seem strange, since spokes don't have any
+compressive strength: if you push on the ends they just bend. But this
+concept is explained with the help of lots of diagrams and analogies,
+and you gradually begin to understand what he's saying. By the time
+you get to the end of the section you should be convinced. </p>
+
+<p> However, in a few places the book could use a bit more
+explanation. Usually you can figure out what is meant if you stare at
+it and mull over it long enough, but a few extra words here and there
+wouldn't go amiss.  For an example where I think some extra
+explanation could be useful, look at the graph below. </p>
+
+<center><table border=0 align=center>
+<tr><td align="center">
+<IMG SRC="images/fig16.gif" alt="graph of wheel deflection" 
+     ALIGN="LEFT" BORDER="0" hspace="10">
+</td></tr>
+<tr><td align="center"><i>Figure 16</i></td></tr>
+</table> </center>
+
+<p> This graph is an example of the topnotch information you'll find
+in the book. Once you figure out what it says, it is an elegant and
+compact way of displaying a great deal of data. It is the sort of
+diagram that Edward Tufte, author of <i>The Visual Display of
+Quantitative Information</i>, would be very pleased with: it is a
+simple, uncluttered, easy to read (once you understand it)
+presentation of relevant facts. However, like many of the better
+graphs in Tufte's book, it needs some explanation, and I felt that the
+explanation given in the book (below) isn't enough.
+
+<blockquote><p> A typical six-speed rear wheel is
+shown in cross section. The horizontal scale in this graph (mm)
+represents the actual hub dimensions. The curves show the change in
+spoke tension and the force required to displace the rim and cause
+these tension changes. The left spokes become slack for even small rim
+deflections to the left while the right spokes remain tight for the
+range of displacements shown. This wheel is twice as stiff for
+deflections to the right as to the left. The graph can be verified by
+observing that, when unlacing a rear wheel, the right spokes do not
+become slack if the left side spokes are removed first. </p></blockquote>
+
+<p> It took me a fair bit of time to see how the graph works, but now
+that I understand it I quite like it. Maybe I was just being thick
+when I came across it: I'm not sure now why it took me so long
+initially to figure it out. At any rate, an example of reading the
+graph would have helped me to get it much more quickly. </p>
+
+</blockquote>
+
+<h4>Relevance to mountain bike wheels.</h4>
+
+<blockquote>
+
+<p> A quick look through the book will show you that all the drawings
+show road wheels (with screw-on freewheels at that). However, almost
+all the principles described work just as well for mountain bike
+wheels. The only one that doesn't (the rim overloading method
+described in Finding the Right Tension in Part II) is explicitly
+stated as not being applicable to mountain bike wheels, and
+alternative methods are given. </p>
+
+<p> Many of the topics covered in the book are surprisingly relevant
+to current trends in spoked mountain bike wheels. For example, number
+and thickness of spokes, cross sections of rims, anodized and ceramic
+coated rims, alumimun vs. nickle-plated brass nipples, and radial
+spoking are all discussed. There are only a few topics that are not
+discussed. One is asymmetric rims, in which the spoke holes in rear
+rims are offset from the center line of the rim, as in Bontrager ASYM
+or Ritchey OCR rims. Another is the process of machining sidewalls of
+rims, such as on many Mavic rims. I would like to know what Brandt
+thinks of these. </p>
+
+<p>[After writing this review I wrote to Brandt to ask him the
+questions above. He doesn't like machined sidewalls at all. He writes
+"I don't know what advantage is gained by machining rims other than
+expense, making the side walls variably thin and leaving little wear
+margin.  I have used more rims than I'd like to think of and have
+never had any problem with the smoothness or continuity of the side
+walls." He also doesn't think that asymmetric rims are such a great
+idea. His main complaint is that since the spoke holes are nearer to
+the edge of the rim, double eyelets can't be used. However, since MTB
+rims rarely have double eyelets in the first place, this doesn't seem
+to me to be a good reason to avoid them.]</p>
+
+</blockquote>
+
+<h4>What you will get from this book.</h4>
+
+<blockquote>
+
+<p> There are several ways to approach this book, depending on the
+level you're at. </p>
+
+<p> If you know nothing about building wheels, you'll find this an
+immensely useful book. I wish I had read it before building my first
+wheel. I learned how to build wheels by looking at a couple of how-to
+guides: Sheldon Brown's <a
+href="http://www.sheldonbrown.com/wheelbuild.html">instructions</a>
+and the notes from Edinburgh Bicycle's wheelbuilding course. While
+these guides told me what to do, they didn't tell me why. If you read
+this book before building your first wheel you'll approach it with
+confidence: you'll understand the materials and methods that make a
+strong, durable wheel rather than a trendy wheel. However, it is
+useful to ask your friends (or a newsgroup) about specific brands of
+hubs, spokes, and rims, as this isn't in the book. Also, those who
+aren't familiar with parts of bicycles may need a glossary to figure
+out what some of the words (like "flange") mean. </p>
+
+<p> The book is plenty useful even if you've built a few wheels or
+have spent some time reading newsgroup or mailing list threads on
+wheels. There is a great deal of misinformation out there. For
+example, many mountain bikers feel that they need thick,
+straight-guage spokes to have durable wheels.  This is not the
+case. Brandt explains why swaged spokes (which are thinner in the
+middle) make more durable wheels than straight-gauge spokes, and shows
+why under most circumstances it's better to have more spokes that are
+thinner rather than a smaller number that are thicker. Thus, for the
+ultimate in strength, make a wheel with 36 (or even more!)  thin
+swaged spokes. </p>
+
+<p> I've also read things like "radially spoked wheels give a harsher
+ride than a 3-cross pattern", and "you should use Loctite on the
+non-drive side of a rear wheel to prevent it from coming loose". 
+Topics like this can be hotly discussed on newsgroups, and it can
+sometimes be hard to judge which side is right. This book will give
+you the understanding you need to sort out these arguments. </p>
+
+<p> When I read this book, I'd made about half a dozen wheels, all of
+which are working fine. Now that I had some experience, I wanted hints
+on how to make my wheels even better. As I read the book, I was
+somewhat disappointed to find that it suggests doing things almost
+exactly the way I have been doing them, using exactly the same
+materials. Brandt recognizes this:</p>
+
+<blockquote><p>
+Cyclists who choose to build wheels often want something more than
+ordinary, but just building wheels conventionally is not a trivial
+task if a durable wheel is the goal. It may be disappointing to
+discover that "it's all been done before" and that conventional wheels
+are a result of a hundred years of refinement. The true contribution
+for the new wheel builder is to build conventional wheels
+exceptionally well.</p></blockquote>
+
+<p> The main practical thing I got out of it was an emphasis on stress
+relieving and correcting the spoke line: I realized that I hadn't been
+doing it as carefully as I could. Despite not having learned any
+radical new approaches to wheelbuilding, it was still worthwhile
+reading.  In addition to seeing the importance of stress relieving I
+now have a good understanding of how a wheel works and why the general
+method I have been using is good (after having read about some of the
+alternatives). I am also much more aware of wheels than I used to
+be. I can now get a good idea of the quality of a wheel by looking at
+the parts its made from and plucking the spokes. </p>
+
+</blockquote>
+
+<h4>More info.</h4>
+
+<blockquote>
+
+<p> Jobst Brandt often posts to rec.bicycles.tech, expounding on
+wheels and other subjects. You can find them via 
+<a href="http://www.dejanews.com/home_ps.shtml">DejaNews</a>. For
+example, 
+<a
+href="http://www.dejanews.com/dnquery.xp?QRY=&DBS=2&ST=PS&defaultOp=AND&LNG=ALL&format=terse&showsort=score&maxhits=100&subjects=&groups=rec.bicycles.tech&authors=Jobst+Brandt&fromdate=&todate=">
+here</a> are his hundred most recent posts. </p>
+
+</blockquote>
+
+</blockquote>
+
+<a href="tips.html">Other bike articles</a>
+</body>
+</html>

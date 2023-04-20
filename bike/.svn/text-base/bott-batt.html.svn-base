@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>NiCad Water Bottle Battery</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1> NiCad Water Bottle Battery</h1>
+
+<table border=0 align=left cellspacing=10>
+<tr><td align="center">
+<IMG SRC="images/bottle.jpg" alt="water bottle battery" 
+     ALIGN="center" BORDER="1">
+</td></tr>
+<tr><td align="center"><i>the finished product</i></td></tr>
+</table>  
+
+<p> Here's how to make a 6V NiCad water bottle battery. In the text
+below I refer to a single D-sized NiCad cylinder as a "cell", and
+refer to the result, the 5 cells soldered together in series, as a
+"battery". </p>
+
+<p> First, buy a water bottle. It should be a widemouth, screw-top
+water bottle. Ours is made by Cannondale. It is the 21 oz. size (i.e.,
+smaller as opposed to larger 28 oz. size). Make sure you check that 5
+D cells will fit in your water bottle before you commit to using
+it. </p>
+
+<p> Get 5 NiCad D cells. They should be the "tabbed" or "tagged" kind
+for easier soldering. You should get the highest capacity ones you can
+find/afford; they should be at least 4 amp-hours. You're putting some
+effort into making this, so don't cheat yourself by getting cheap,
+low-capacity cells. </p>
+
+<p> If you want, buy a fuse and fuse holder to put in the water bottle
+with the cells. The fuse prevents the battery from completely draining
+itself if there is a short in the wires connecting it to the lighting
+heads. This can save you alot of money, as fully draining a battery
+could easily destroy it through cell reversal.  Also, the rush of
+current that drains it could produce enough heat to start a fire.  You
+should use the smallest effective fuse that will not blow with regular
+use. William Burrow suggests calculating the size (amp-rating) of the
+fuse you need by doubling the maximum expected current used by the
+lights and picking the nearest next larger size available fuse. </p>
+
+<IMG SRC="images/bott-dia.jpg" alt="cell packing diagram" 
+ ALIGN="right" BORDER="0" hspace="10">
+
+<p> Solder everything up as in the diagram. The light blue rectangles
+are the cells, the red rectangle is the (optional) fuse holder, and
+the pinkish thing is the lid to the water bottle (shown in
+profile). The black lines are wires. Take two cells, solder a short
+wire between them, then tape them together to make a long cylindical
+stack. Do the same with two of the other cells. Put a long wire
+between the two stacks (a bit longer than the length of the stacks),
+then put the 5th cell in series with the others, connected by a wire
+again slightly longer than the length of the stacks. If you want a
+fuse holder, a good place to put it is after the 5th single
+cell. Attach longish wires to the ends of the series of cells (these
+will go out the lid). </p>
+
+<p> In addition to taping the cells in the stacks together, it's a
+good idea to put electrical insulation tape around the ends of the
+stacks, the single cell, and the fuse holder. Make sure you pay close
+attention to the polarity of the cells, so they end up in series (+
+end of one cell attached to the - end of the next). </p>
+
+<p> Put the ends of the wires through the lid of the water
+bottle. It's neatest to put a hole in the nipple, feed the wires
+through, then put a liberal amount of glue in the area to prevent
+water getting into the bottle and to keep the wires in place. </p>
+
+<p> To install in the water bottle, gently lower the first stack, then
+the second, then the single cell (and fuse holder if you have one)
+alongside the two stacks. Pack with foam (we used the sort of foam
+that cheap foam mattresses are made out of). Screw the top on, and
+solder a cord/connector onto the wires that protrude from the water
+bottle lid. </p>
+
+<a href="tips.html">More bike and light articles</a>
+</body>
+</html>
+

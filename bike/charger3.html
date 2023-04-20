@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>NiMH Battery Chargers</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+
+<h1>NiMH Battery Chargers</h1>
+
+<blockquote>
+
+<p> NiMH batteries are very sensitive to overcharging. Thus if you want
+to keep your batteries working as long as possible, you should avoid
+overcharging. There are two basic ways of doing this. One is to
+discharge your battery to an almost empty state (which is determined
+by the voltage of the battery dropping to a certain predefined limit,
+usually about 1 volt per cell), and then charging it up using a
+timer. This avoids both overdischarge, which leads to 
+<a href="lights.html#memory">cell reversal</a>, as well as
+overcharging. </p>
+
+<p> If you don't have the equipment to precisely discharge your
+battery to that almost empty state, then what you should do it just
+recharge it after use, using a smart charger to prevent overcharging.
+A smart charger charges the battery at a reasonably high rate (one amp
+or more). When it detects that the battery is full, it turns
+off. Well, it doesn't turn off, it just switches to a low trickle
+current to counter self-discharge. Some people argue that since NiMh
+are so easily damaged by overcharging, the charger should really turn
+off completely, but occasionally let in a burst of current to counter
+self-discharge. However, I only know of one smart charger that does
+this (the Specialized one below). </p>
+
+<p> There are two features of NiMH batteries that are used to
+terminate smart charging. One is that as the battery approaches being
+full, the temperature starts going up, and the temperature continues
+to increase as time goes on. If the current isn't turned off, the
+battery will overheat and be destroyed. Another feature is that the
+battery voltage slowly increases, and just after the battery reaches
+100% capacity, the voltage drops by a small amount. </p>
+
+<p> From reading NiMH battery data books, I found out that by far the
+best way to determine when a battery is full is dT/dt. This requires
+you to keep track of the temperature of the battery. When the
+temperature has gone up by a certain amount over a given interval, the
+battery is full. I seem to recall 1.5 degrees C over 2 mins, but don't
+hold me to that. I don't know of a chip or off the shelf charger that
+does this, and it requires a thermistor built into the battery
+pack. </p>
+
+<p> I have a <a href="http://home.clara.net/lumicycle/">Lumicycle</a>
+lighting system with NiMH batteries. Lumicycle offer a smart charger
+with their system as an upgrade, and I naturally got this one. It
+works by detecting the slight voltage voltage drop in a full
+battery. The company that makes this charger makes a very similar one
+for NiCad batteries, but their NiMH charger terminates fast charging
+after detecting a much lower voltage drop than the NiCad ones.  It
+seems to work. That is, it charges for less time when I've used only a
+small part of the battery capacity, and for longer when I've used
+more. </p>
+
+<p> However, according to the data books, this algorithm
+turns off the fast charge after a small amount of overcharging has
+already occurred, and hence a very small amount of damage is being
+done to the battery with every charge. The data books that I read
+suggest that you'll get a 20% fewer charge cycles from your NiMH
+batteries doing this. However, it is a far better approach than using
+a slow charger, like the 16 hour charger as supplied with the standard
+Lumicycle system. With that kind of stupid charger, it's entirely luck
+as to whether you undercharge it, get it just right, or overcharge
+it. </p>
+
+<p> If you are really into DIY, one route to getting a NiMH smart
+charger is to make it from a Maxim 712 chip. Maxim makes two very
+similar charger chips. The MAX 713 is for NiCad batteries, and the MAX
+712 is for NiMH. The 713 turns off when the voltage drops after NiCad
+battery is fully charged. The 712 turns off when the voltage levels
+out rather than dropping. They felt that this was a safer approach
+than trying to detect the small drop that occurs. I think it makes
+sense, especially as it terminates charging a bit quicker, resulting
+in less overcharging. The MAX 712 also monitors temperature, and
+charging can be terminated by maximum temperature. But this requires
+you to make up battery packs with thermistors in them. For more info,
+check out <a href="http://www.maxim-ic.com/">Maxim's Web pages</a>.
+You can get ahold of a data sheet by looking up the 712 in this
+<a href="http://209.1.238.248/scripts/cSelector.exe/Battery_Chargers">
+chart</a>. </p>	
+
+<p> By far the best charging system seems to be the one included with
+the soon-to-be-released Specialized Fireball Team and Comp lights.
+According to the developer of these lights, their battery technology
+is essentially the same as that used by the laptop computer
+industry. Basically, the battery pack includes a "gas gauge" and some
+very smart electronics which monitor the state of the battery based on
+battery voltage, elapsed time, and ambient temperature. When plugged
+into the charger, fast charging starts.  The cutoff for fast charging
+is determined as a combination of time, voltage, and temperature.
+When the pack is fully charged it does not trickle charge, it turns
+off. The gas gauge then begins to monitor self-discharge. The gas
+gauge will then occasionally turn the charger on to top-off the pack.
+This eliminates the chance of over-charging which is the leading cause
+of damage to NiMH dells. </p>
+
+<p> An alternative to a smart charger is to make a trickle
+charger. However, since NiMH batteries are so very sensitive to
+overcharging, the best approach is to use a very low current in order
+to minimize overcharge damage. One frequent poster to the 
+<a href="http://www.topica.com/lists/bikecurrent">bikecurrent mailing
+list</a> uses a charger that charges at a rate something like C/60 and
+has had good results with it. C/60 is the capacity of the battery in
+amp-hours divided by 60. So if you had a battery with capacity 4
+amp-hours (4000 mAh), C/60 is 67 mA. At this current rate, the battery
+would be charged from empty in about 84 hours, i.e. about 3 and a half
+days. If you left it plugged in longer than that, it wouldn't matter
+much because of the low charge rate. Obviously this system cannot be
+used when you require your battery to be charged up quickly! </p>
+
+<p>You can get more info in NiMH batteries from <a
+href="http://www.panasonic.com/industrial_oem/battery/battery_oem/chem/nicmet/nicmet.htm">
+Panasonic</a> and <a href="http://www.gpbatteries.com/nimh.htm">GP</a>. 
+</p>
+
+</blockquote>
+
+<a href="tips.html">More bike and light articles</a>
+</body>
+</html>

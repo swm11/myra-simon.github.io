@@ -1,0 +1,441 @@
+<HTML>
+<HEAD>
+<TITLE>Petite Bike Specs</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+
+<h1>Petite Bike Specs</h1>
+
+<h3>(<a href="#geometry">Geometry</a> and <a
+href="#addresses">Addresses</a> below)</h3>
+
+<p> By Chris Juden. This accompanies the <a
+href="petitest.html">Petite Bike Test</a> article. </p>
+
+<blockquote>
+
+<P>A complete specification is given of each of the bicycles specially
+provided for the test. (I do not provide these details for the
+participants' bikes because they are all a year or two old and hence
+many of their components will no longer be obtainable.)</p>
+
+<p> In these specifications the following abbreviations are used.</P>
+
+<p><b>FRAME Features</b><br>
+
+<b>V130</B>&#9;Vertical rear dropouts and width in mm of space between
+to fit hub.<br>
+
+<b>Fa126</B>&#9;Forward-facing dropouts with adjusters and width as
+above.<br>
+
+<b>D/D</B>&#9;Double eyes on front/rear dropouts.<br>
+
+<b>S/D</B>&#9;Single front / double rear eyes.<br>
+
+<b>S+/D</B>&#9;+ indicates extra eyes for front mudguard partway up
+forks.<br>
+
+<b>M</B>&#9;Direct attachment of mudguard via threaded holes in
+chainstay and seatstay bridges.<br>
+
+<b>Cr</B>&#9;Carrier eyes on seatstays for rear 4-point fixing.<br>
+
+<b>Ls</B>&#9;Fork bosses for Lowrider carrier, standard-type with
+loop stay over wheel.<br>
+
+<b>Lc</B>&#9;As above but for Custom Lowrider (standard also
+fits).<br>
+
+<b>B</B>&#9;Bottle cage bosses, 2B for two sets, etc.<br>
+
+<b>Fl</B>&#9;Lamp boss (old style) on fork.<br>
+
+<b>Dyno</B>&#9;All necessary brackets and wiring holes etc. for
+dynamo lighting system.<br>
+
+<b>Clearances</B>  Front/rear clearances in mm measured outwards
+from the rim bead seat (about 5mm below the rim edge) to the frame. A
+clearance of 52mm provides a space of about 20mm above a 32mm tyre,
+for the fitting of a mudguard.<br>
+
+<p><b>WHEELS</B>  The number of spokes in the wheel and number of
+crossings is indicated thus: 36x3 (front/rear if different). Spoke
+gauge and material is also given e.g.<br>
+
+<b>pg</B>&#9;plain gauge<br>
+
+<b>sb</B>&#9;single butted (thicker at the hub end)<br>
+
+<b>db</B>&#9;double butted (thinned in the middle)<br>
+
+<b>tb</B>&#9;triple butted (thinned in the middle and thicker at
+the hub)<br>
+
+<b>rl</B>&#9;rustless (galvanised)<br>
+
+<b>cp</B>&#9;chrome plated<br>
+
+<b>ss</B>&#9;stainless steel<br>
+
+<b>Hubs</B>  Flange size and axle type is indicated as follows:<br>
+
+<b>sf/lf</B>&#9;small flange front / large flange rear<br>
+
+<b>qr</B>&#9;quick-release<br>
+
+<p><b>BRAKING</B>  The following abbreviations describe the type of
+brake:<br>
+
+<b>lpc</B>&#9;Low-profile cantilever: arms near to vertical.<br>
+
+<b>mpc</B>&#9;Mid-profile cantilever: arms raised to between 30 and
+60°.<br>
+
+<b>wpc</B>&#9;Wide-profile cantilever: arms stick out sideways.<br>
+
+<b>sp</B>&#9;Sidepull brake.<br>
+
+<b>cp</B>&#9;Centrepull.<br>
+
+<b>bcp</B>&#9;Brazed-on centrepull (e.g. U-brake).<br>
+
+<p><b>Features</B>  The following abbreviations indicate the provision
+of quick-release and cable adjustment features for front/rear
+brakes.<br>
+
+<b>Q</B>&#9;Quick release&#9;<B>A</B>&#9;Adjuster<br>
+
+<b>b</B>&#9;on brake itself&#9;<B>h</B>&#9;on hanger<br>
+
+<b>c</B>&#9;at some point on cable&#9;<B>l</B>&#9;on lever<br>
+
+Thus if both levers have a quick-release facility but there is an
+adjuster on the front hanger only the code is: QlAh/Ql.<br>
+
+</blockquote>
+
+<a name="yates">
+<h4>DAVE YATES</h4></a>
+
+<blockquote>
+<P><b>Frame</B>: 531 Designer Select. Features: Fa130 D/D Cr Ls Pt
+2B. Clearances: 44/44.<BR>
+
+<B>Wheels</B>: Continental Top-Touring 32-622 tyres, Mavic M3CD 15mm
+rims, 36x3 DT 14/15g dbss spokes, Shimano LX qr hubs.<BR>
+
+<B>Transmission</B>: Shimano LX 170mm crankset, mechs &amp; pedals, HG
+freehub (26,36,46 x 12,14,16,18,21,24,28T), Sedisport chain, 105 dt
+shifters, unit bottom-bracket, Specialized plastic clips &amp;
+Christophe straps.<BR>
+
+<B>Braking</B>: Shimano 105 short reach levers, Shimano LX lpc
+brakes. Features: Ah/Ah<BR>
+
+<B>Steering</B> <B>&amp;</B> <B>Seating</B>: Cinelli 64 38cm bars
+&amp; 1A 75mm stem, Primax headset. Avocet Touring 1 saddle on
+Specialized seatpin.<BR>
+
+<B>Accessories</B>: ESGE guards, modified Karrimor steel carrier,
+Milremo pump, Cyclo bag loops (no room for bag!).</P>
+</blockquote>
+
+<a name="orbit">
+<h4>ORBIT GOLD MEDAL ALIVIO</h4></a>
+
+<blockquote>
+<p><b>Frame</b>: 531ST. Features: V135 D/D Cr Ls B. Clearances 55/67.<BR>
+<B>Wheels</B>: Specialized Nimbus 1.15 (30-559) tyres, Campagnolo
+Stheno 16mm rims, 32x3 14g pgss spokes, Shimano LX qr hubs.<BR>
+
+<B>Transmission</B>: Shimano MJ 160mm crankset, HG freehub (24,34,42 x
+12,14,16,18,21,24,28T), Shimano chain, Altus C10 mechs, RX100 dt
+shifters, unit bottom-bracket, anonymous pedals, Lapize clips &amp;
+leather straps.<BR>
+
+<B>Braking</B>: Shimano Exage Motion levers, LX mpc brakes. Features:
+QlAh/QlAh.<BR>
+
+<B>Steering</B> <B>&amp;</B> <B>Seating</B>: SR Road Champ 40cm bars
+&amp; alloy 65mm stem, Shimano headset. Selle San Marco Fox gel saddle
+on Gipiemme seatpin.<BR>
+
+<B>Accessories</B>: Poker guards, alloy carrier.</P>
+</blockquote>
+
+<a name="longstaff">
+<h4>LONGSTAFF</h4></a>
+
+<blockquote>
+<P><b>Frame</B>: 531 Designer Select. Features: V130 S+/D M Cr Ps
+2B. Clearances 50/50.<BR>
+
+<B>Wheels</B>: Avocet Cross 1.25in (35-559), Mavic M231 PSP 17mm rims,
+36x3 14/15g dbss spokes, Shimano DX hubs.<BR>
+
+<B>Transmission</B>: TA Cyclotouriste 160mm crankset, HG freehub
+(28,38,48 x 12,14,16,18,21,24,28T), Sedisport chain, Shimano DX mechs,
+SL-A550 shifters, Kajita unit bottom-bracket, SR100 pedals, plastic
+clips &amp; leather straps.<BR>
+
+<B>Braking</B>: Shimano 105 short reach levers, XT mpc
+brakes. Features Ah/Ah.<BR>
+
+<B>Steering</B> <B>&amp;</B> <B>Seating</B>: Cinelli Giro d'Italia
+40cm bars, XA 75mm stem, Stronglight A9 headset. Avocet Gelflex W20
+saddle on Shimano DX seatpin.<BR>
+
+<B>Accessories</B>: Poker guards, Blackburn carrier, Zefal SP2 pump, 2
+Blackburn cages.</P>
+</blockquote>
+
+<a name="oliver">
+<h4>TONY OLIVER</h4></a>
+
+<blockquote>
+<P><b>Frame</B>: 531 Designer Select. Features: V130 D+/D M Cr Lc Pb 2B
+Dy. Clearances: 53/50.<BR>
+
+<B>Wheels</B>: Hutchinson HP 28-584 tyres, Mavic M4 19mm rims,
+36x3/40x4 ACI 14/16g dbss spokes, Miche Superfast sfqr hubs.<BR>
+
+<B>Transmission</B>: Stronglight 106T 165mm crankset, Sachs Aris
+freewheel (28,43,51 x 13,15,17,20,23,26,30T), Sedisport chain, Huret
+front &amp; Sachs New Success mechs, Sachs New Success dt shifters,
+Stronglight Competition bottom-bracket, Lyotard 23 platform pedals,
+Christophe clips &amp; Leather straps.<BR>
+
+<B>Braking</B>: CLB small levers with modified Diacompe hoods, Shimano
+Deore II mpc brakes. Features: Al/Al.<BR>
+
+<B>Steering</B> <B>&amp;</B> <B>Seating</B>: 3T Tour de France 38cm
+bars, 3T Record (AR) 6cm (=55mm) stem, Stronglight A9 headset with
+height extender locknut. Selle Italia Ladies Anatomic saddle on ITM
+seatpin.<BR>
+
+<B>Accessories</B>: ESGE guards, custom-built expedition carrier,
+Soubitez dynamo lighting, Vistalite, 2 bottle cages, Bluemels
+pump.</P>
+</blockquote>
+
+<a name="islabike">
+<h4>ISLABIKE</h4></a>
+
+<blockquote>
+<P><b>Frame</B>: 531C/Designer Select. Features: V130 S/D M Cr
+Ls. Clearances: 53/51.<BR>
+
+<B>Wheels</B>: Continental Top-Touring 32-622, Alesa 913 13mm rims,
+32x3 14/15g dbss spokes, Campagnolo Centaur qr hubs.<BR>
+
+<B>Transmission</B>: TA Cyclotouriste 160mm crankset, Sachs Aris
+freewheel (30,44 x 13,15,17,20,23,26,30T), Sedisport chain, Campagnolo
+Icarus mechs, Shimano bar-end shifters, Stronglight unit
+bottom-bracket, Campagnolo OR pedals, Christophe plastic clips, Silva
+straps.<BR>
+
+<B>Braking</B>: Shimano 600 (reach shortened) levers, anonymous
+(customised) mpc brakes. Features: none.<BR>
+
+<B>Steering</B> <B>&amp;</B> <B>Seating</B>: 3T Super Competizione
+37cm bars, Custom-built stem, Stronglight X12 headset. Selle Italia
+Lady Turbo saddle on X-Lite seatpin.<BR>
+
+<B>Accessories</B>: ESGE guards, Islarack carrier, Zefal bottle &amp;
+cage, Zefal SP2 pump.</P>
+</blockquote>
+
+<a name="roberts">
+<h4>ROBERTS</h4></a>
+
+<blockquote>
+<P><b>Frame</B>: 531 Designer Select. Features: Fa130 D/D M Cr
+2B. Clearances: 51/45.<BR>
+
+<B>Wheels</B>: Continental Top-Touring 32-622 tyres, Mavic 3D Argent
+15mm rims, 36x3 DT 14g pgss spokes, Shimano DX qr hubs.<BR>
+
+<B>Transmission</B>: TA Cyclotouriste 162.5mm crankset, HG freehub
+(26,38,48 x 13,15,17,20,23,26,30T), Sedisport chain, Shimano DX mechs,
+RX100 dt shifters, Campagnolo bottom-bracket, Campagnolo OR pedals,
+Christophe D clips &amp; Specialized nylon straps.<BR>
+
+<B>Braking</B>: Shimano 105 levers (bent closer to bar), 400CX lpc
+brakes. Features: Ah/Ah.<BR>
+
+<B>Steering</B> <B>&amp;</B> <B>Seating</B>: 3T Forma 38cm bars,
+Custom-built stem, Shimano 600 headset. Terry ATB saddle on
+Specialized seatpin.<BR>
+
+<B>Accessories</B>: ESGE guards, Pioneer alloy carrier, bottle
+cage.</P>
+</blockquote>
+
+
+<a name="geometry">
+<h2>Geometry</h2></a>
+
+<blockquote>
+
+<p> For an explanation of the measurements see the table and diagram
+below. The most important dimensions for rider fit - frequently
+referred to in the main report - are the frame stand-over height HT
+and reach RE. The latter is the horizontal distance between the centre
+of the handlebar and the centre of the seatpin (with the handlebar at
+its lowest position). To measure the reach of your own bike, first
+measure how far your handlebars are above the ground (at the point
+where they go through the stem) and make a mark on the side of your
+seatpin at the same height - raise the saddle if necessary so as to
+expose a bare section of seatpin. </p>
+
+<p> <b>Wt</b> The figure in kg has been corrected to a 'standard'
+touring specification (to include: mudgaurds, rear carrier, pump, one
+bottle and cage, but no lights) by adding or subtracting the average
+weight of any missing or additional accessories. </p>
+
+<p>
+<b>Meaning of measurements (see diagram)</b><br>
+FS:  frame size<br>
+HT:  stand over height<br>
+RE:  reach to bars<br>
+BH:  bottom bracket height (to center of BB)<br>
+FL:  frame length (effective top tube length)<br>
+SA:  seat tube angle<br>
+HA:  head tube angle<br>
+TR:  trail<br>
+WH:  wheel diameter (including tire)<br>
+CR:  crank length<br>
+FC:  front centre (centre of BB to front axle)<br>
+RC:  rear centre (chain stay length)<br>
+WB:  wheelbase (rear axle to front axle)<br>
+Wt:  weight
+</p>
+</blockquote>
+
+<a name="geometry-dia"></a>
+
+<center>
+<IMG SRC="images/pt-geo-dia.gif" alt="geometry diagram"
+ ALIGN="center" BORDER="0" width=472 height=285 hspace="5">
+</center>
+
+<table border=1 cellpadding=3>
+<tr><td></td><td>FS<br>cm</td><td>FS<br>in</td><td>HT<br>cm</td>
+   <td>RE<br>cm</td><td>BH<br>mm</td>
+   <td> FL<br>mm</td><td> SA<br>deg </td><td> HA<br>deg</td>
+   <td> TR<br>mm</td><td>WH<br>mm</td>
+   <td> CR<br>mm</td><td>FC<br>mm</td><td>RC<br>mm</td><td> WB<br>mm</td>
+   <td> Wt<br>kg</td><td>Gears<br>No</td> <td>Range<br>in</td></tr>
+<tr><td>DY</td><td>   44</td><td>17</td><td>71</td><td>57</td><td>268</td>
+   <td>505</td><td>77.5</td><td>72.1</td><td>50</td><td>686</td>
+   <td>170</td><td>596</td><td>429</td><td>1014</td><td>12.6</td>
+   <td>21</td><td>   25-104</td></tr>
+<tr><td>OGM</td><td>  45</td><td>18</td><td>70</td><td>57</td><td>258</td>
+   <td>508</td><td>73.3</td><td>71.5</td><td>52</td><td>618</td>
+   <td>160</td><td>561</td><td>412</td><td> 968</td><td>11.9</td>
+   <td>21</td><td>   21-85</td></tr>
+<tr><td>GL</td><td>   46</td><td>18</td><td>72</td><td>54</td><td>265</td>
+   <td>470</td><td>75.0</td><td>70.8</td><td>51</td><td>630</td>
+   <td>160</td><td>552</td><td>415</td><td> 962</td><td>12.0</td><td>21</td>
+   <td>   25-99</td></tr>
+<tr><td>TO</td><td>   48</td><td>19</td><td>72</td><td>56</td><td>254</td>
+   <td>510</td><td>73.0</td><td>71.0</td><td>58</td><td>640</td>
+   <td> 165</td><td>562</td><td>448</td><td>1001</td><td>12.3</td>
+   <td>21</td><td> 24-99</td></tr>
+<tr><td>IB</td><td>   48</td><td>19</td><td>74</td><td>57</td><td>268</td>
+   <td>509</td><td>77.5</td><td>71.2</td><td>65</td><td>686</td>
+   <td>160</td><td>598</td><td>424</td><td>1011</td><td>12.0</td><td>14</td>
+   <td>27-91</td></tr>
+<tr><td>ROB</td><td>  47</td><td>19</td><td>72</td><td>57</td><td>262</td>
+   <td>502</td><td>75.2</td><td>70.7</td><td>62</td><td>686</td>
+   <td>163</td><td>583</td><td>423</td><td> 993</td><td>12.5</td>
+   <td>21</td><td>23-100</td></tr>
+<tr><td>DG</td><td>   49</td><td>19</td><td>76</td><td>64</td><td>274</td>
+   <td>559</td><td>74.0</td><td>71.8</td><td>64</td><td>686</td>
+   <td>170</td><td>611</td><td>443</td><td>1045</td><td>13.3</td><td>21</td>
+   <td>25-100</td></tr>
+<tr><td>CAN</td><td>  49</td><td>19</td><td>73</td><td>57</td><td>266</td>
+   <td>524</td><td>76.3</td><td>72.2</td><td>56</td><td>688</td>
+   <td>170</td><td> 598</td><td> 454</td><td> 1040</td>
+   <td> 12.6</td><td> 18</td><td>25-104</td></tr>
+<tr><td>MER</td><td>  48</td><td>19</td><td>75</td><td>58</td><td>280</td>
+   <td>522</td><td>75.5</td><td>71.5</td><td>54</td><td>678</td>
+   <td>170</td><td>601</td><td>428</td><td>1022</td><td>12.0</td>
+   <td>12</td><td>31-88</td></tr>
+<tr><td>RR</td><td>   51</td><td>20</td><td>76</td><td>60</td><td>268</td>
+   <td>537</td><td>74.0</td><td>71.0</td><td>59</td><td>680</td>
+   <td>170</td><td>603</td><td>437</td><td>1030</td><td>12.9</td>
+   <td>21</td><td>27-107</td></tr>
+<tr><td>RT</td><td>   51</td><td>20</td><td>77</td><td>60</td><td>272</td>
+   <td>541</td><td>76.0</td><td>71.0</td><td>71</td><td>686</td>
+   <td>165</td><td>615</td><td>440</td><td>1045</td><td>12.6</td>
+   <td>12</td><td>27-89</td></tr>
+<tr><td>WIL</td><td>  52</td><td>21</td><td>78</td><td>59</td><td>270</td>
+   <td>538</td><td>73.6</td><td>71.7</td><td>56</td><td>686</td>
+   <td>165</td><td>595</td><td>443</td><td>1027</td><td>12.0</td>
+   <td>18</td><td>20-93</td></tr>
+</table>
+
+<blockquote>
+<p>
+<table>
+<tr><th colspan=2>Key to bikes</th><tr>
+<tr><td>Dave Yates (custom)          </td><td>DY</td></tr>
+<tr><td>Orbit Gold Medal C10         </td><td>OGM</td></tr>
+<tr><td>George Longstaff (custom)    </td><td>GL</td></tr>
+<tr><td>Tony Oliver (custom)         </td><td>TO</td></tr>
+<tr><td>Islabike (custom)            </td><td>IB</td></tr>
+<tr><td>Roberts (custom)             </td><td>ROB</td></tr>
+<tr><td>Dawes Galaxy (Anne)          </td><td>DG</td></tr>
+<tr><td>Cannondale (Cathy)           </td><td>CAN</td></tr>
+<tr><td>Mercian KoM (Isobel)         </td><td>MER</td></tr>
+<tr><td>Raleigh Royal                </td><td>RR</td></tr>
+<tr><td>Roy Thame (Pat)              </td><td>RT</td></tr>
+<tr><td>Wilkins (Helen)              </td><td>WI</td></tr>
+</table>
+</p>
+</blockquote>
+
+<a name="addresses">
+<h2>Addresses</h2>
+
+<blockquote>
+
+<P><b>Bio-Racer UK</B> no longer has a UK office, though their service
+may still be available through some UK shops.<BR>
+
+<B>Islabikes</B>, 5 Watery
+Lane, Wordsley, Stourbridge, DY8 5SH; tel: 01384 485160<BR>
+
+<B>George</B> <B>Longstaff</B> <B>Cycles</B>, Albert Street,
+Chesterton, Newcastle-under-Lyme, Staffs, ST5 7JF; tel: 0782
+561966.<BR>
+
+<B>Tony</B> <B>Oliver</B> no longer produces bikes.<BR>
+
+<B>Orbit</B> <B>Cycles</B>, Unit 18, City Rd Trading estate, 295 City
+Road, Sheffield, S2 5HH; tel: 0742 756567.<BR>
+
+<B>Roberts</B> <B>Cycles</B>, 89 Gloucester Road, Croydon, Surrey, CR0
+2DN; tel: 081 684 3370.<BR>
+
+<B>M</B> <B>Steel</B> <B>Lightweight</B> <B>Cycles</B>, Old
+Northumberland Yard, Howdon, Wallsend, Tyne &amp; Wear, NE28 6ST; tel:
+091 234 4275.</P>
+
+</blockquote>
+
+<p> Other pages in the Petite Bike Test:
+<ul>
+<li> <a href="petitest.html">Introduction</a>
+<li> <a href="pt-results.html">Test Results</a>
+<li> <a href="pt-bits.html">Petite Bike Bits</a>
+   (small wheels, brake levers, and saddles)
+<li> <a href="pt-size.html">What Size?</a> (how to choose a bike that fits)
+<li> <a href="pt-penny.html">A Participant's Perspective</a>
+</ul> </p>
+
+
+</BODY>
+</HTML>

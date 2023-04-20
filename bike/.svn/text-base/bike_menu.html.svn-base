@@ -1,0 +1,15 @@
+<ul class="menu">
+<li><a href="../index.shtml" class="menu">home</a></li>
+<li><a href="index.shtml" class="menu">cycling</a></li>
+    <ul class="menu2">
+    <li><a href="travel/index.html">touring</a></li>
+    <li><a href="ride-stories.html">ride stories</a></li>
+    <li><a href="tips.html">articles</a></li>
+    <li><a href="photos.html">photo gallery</a></li>
+    </ul>
+<li><a href="../dive/index.html" class="menu">scuba diving</a></li>
+<li><a href="../movies/index.html" class="menu">movies</a></li>
+<li><a href="../fish/index.html" class="menu">fishkeeping</a></li>
+<li><a href="../scratch/index.html" class="menu">scratch</a></li>
+</ul>
+<img src="../Myra_passport_cr.jpg" alt="Myra VanInwegen's photo" id="myphoto">

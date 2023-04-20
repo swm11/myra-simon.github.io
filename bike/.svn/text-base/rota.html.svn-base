@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Red Bull Rota</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1>Red Bull Rota</h1>
+
+<p> Estimated lap times per rider (made after practice loop): <br>
+Joe, Danny : 50 mins <br>
+Chris, Shane : 55 mins <br>
+Myra : 1 hour or more <br>
+All riders at night : 1 hour </p>
+
+<p> Notes. This is the final version of the table, after Joe decided
+that he would do a double lap in morning, and after the estimated
+start times were revised because of that. Most of the missing actual
+times are in the middle of double laps. The only exception is the end
+of Shane's first double lap, where he had gone too hard and simply
+went to sleep at the end of his laps. We know the finish time of his
+first lap because Danny was there to take over for him in case his
+shoulder was giving him problems. There is a 4 min gap between Chris's
+08:29 lap and the beginning of Joe's morning double lap. This is
+because Joe was standing around the corner, where Chris wasn't
+expecting him, and they didn't find each other for 4 minutes! </p>
+
+<table border=1 cellpadding=2 cellspacing=0>
+<tr>
+<th>Est. start</th><th>Rider</th><th>Actual Start</th><th>Actual Finish</th>
+</tr>
+<tr><td>14:00</td><td>Joe       </td><td>14:00</td><td>14:50</td></tr>
+<tr><td>14:50</td><td>Myra      </td><td>14:50</td><td>15:46</td></tr>
+<tr><td>15:50</td><td>Shane x 2 </td><td>15:46</td><td>16:32</td></tr>
+<tr><td>16:45</td><td>&nbsp;    </td><td>16:32</td><td>&nbsp;</td></tr>
+<tr><td>17:40</td><td>Danny     </td><td>&nbsp;</td><td>18:13</td></tr>
+<tr><td>18:30</td><td>Chris x 2 </td><td>18:13</td><td>19:00</td></tr>
+<tr><td>19:25</td><td>&nbsp;     </td><td>19:00</td><td>19:51</td></tr>
+<tr><td>20:20</td><td>Joe       </td><td>19:51</td><td>20:33</td></tr>
+<tr><td>21:00</td><td>Danny     </td><td>20:33</td><td>21:20</td></tr>
+<tr><td>21:50</td><td>Myra x 2  </td><td>21:20</td><td>&nbsp;</td></tr>
+<tr><td>22:50</td><td>&nbsp;     </td><td>&nbsp;</td><td>23:28</td></tr>
+<tr><td>23:50</td><td>Shane x 2 </td><td>23:28</td><td>&nbsp;</td></tr>
+<tr><td>00:50</td><td>&nbsp;     </td><td>&nbsp;</td><td>01:20</td></tr>
+<tr><td>01:50</td><td>Chris x 2 </td><td>01:20</td><td>02:16</td></tr>
+<tr><td>02:50</td><td>&nbsp;     </td><td>02:16</td><td>03:20</td></tr>
+<tr><td>03:50</td><td>Joe x 2   </td><td>03:20</td><td>&nbsp;</td></tr>
+<tr><td>04:40</td><td>&nbsp;     </td><td>&nbsp;</td><td>04:56</td></tr>
+<tr><td>05:30</td><td>Danny x 2 </td><td>04:56</td><td>05:45</td></tr>
+<tr><td>06:20</td><td>&nbsp;     </td><td>05:45</td><td>06:36</td></tr>
+<tr><td>07:10</td><td>Myra      </td><td>06:36</td><td>07:39</td></tr>
+<tr><td>08:10</td><td>Shane     </td><td>07:39</td><td>08:29</td></tr>
+<tr><td>09:05</td><td>Chris     </td><td>08:29</td><td>09:21</td></tr>
+<tr><td>10:00</td><td>Joe x 2   </td><td>09:25</td><td>10:10</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;     </td><td>10:10</td><td>10:56</td></tr>
+<tr><td>11:05</td><td>Danny     </td><td>10:56</td><td>11:43</td></tr>
+<tr><td>11:55</td><td>Myra      </td><td>11:43</td><td>12:45</td></tr>
+<tr><td>12:55</td><td>Shane     </td><td>12:45</td><td>13:33</td></tr>
+<tr><td>13:50</td><td>Chris     </td><td>13:33</td><td>14:24</td></tr>
+</table>
+
+<br>
+<a href="redbull.html">Back to Red Bull article</a>
+</body>
+</html>

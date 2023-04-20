@@ -1,0 +1,253 @@
+<html>
+<head>
+<title>Bodge Your Bike to Fit</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1>Bodge Your Bike to Fit</h1>
+
+<blockquote>
+
+<p> This article is aimed at people who are having pain in their
+hands, wrists, elbows, shoulders, and upper back due to having too
+much weight on their hands. This may be the result of having a top
+tube that's a bit longer than it should be, or you may suffer from
+medical conditions like back problems or RSI that are exacerbated by
+being stretched too far forward or having too much weight on the
+hands. Or you may simply want a riding position that puts you more
+upright and puts less pressure on your hands and arms. </p>
+
+<p> Your first place to look should be your saddle. It should be very
+close to level. If it's pointed down at the nose, you'll be supporting the
+weight of your torso on your hands. Also, check the fore-aft position
+of your saddle. Don't assume that pushing the saddle forward will put
+necessarily put less pressure on your hands by shortening the distance
+to the handlebar. It may very well leave you unbalanced. See 
+<a href="http://www.peterwhitecycles.com/fitting.htm">Peter
+White's article on bike fit</a> for an explanation of this. </p>
+
+<p> If your saddle is already set up all right, then you'll need your
+handlebars much higher and much closer. Perhaps the best route is to
+buy a new bike with a shorter top tube or with a higher front end
+(given by a longer head tube or longer forks on a MTB). However, if
+you're short on money this may not be an option, and if the change you
+need isn't drastic, it's probably not even the best solution. The
+article is basically in two parts, how to bodge your mountain bike,
+and how to bodge your road bike. </p>
+
+</blockquote>
+
+<h2>Bodge Your Mountain Bike to Fit</h2>
+
+<blockquote>
+
+<p> Most mid to high-end mountain bikes come with stems that are long
+and low. Even the riser bars that come with many mountain bikes don't
+lift the hand position up all that much. If you don't have a riser bar
+and like the idea of them, you could get one and see if it
+helps. Watch the width of them though. Some riser bars are very wide,
+and the width of the handlebar should relate to the width of the
+shoulders. If you're a woman or small man, the wider bars may leave
+you feeling that your hands are spread much too far apart. I have used
+24" riser bars and like them, but wouldn't want to go wider. One
+product that can be very useful here is the <a
+href="http://www.wylder.com/components04.htm">Juliana riser
+bar</a>. It's a 23" bar with a fair bit of rise. For a full review see
+<a href="http://www.gofar-mtb.com/Reviews/77.2.html">GoFar
+magazine</a>.
+
+</p>
+
+<p> If you don't have a threadless headset (like an Aheadset) you can
+raise your stem a bit, but since the quills (the part that goes into
+the head tube) are usually pretty short, you can't raise them by
+much. If you have a threadless headset there are sometimes spacers
+that you can rearrange to bring the bars up. This is not likely to
+have much of an effect, though, as most bikes come with the stem above
+the spacers anyway. Thus the best option is to buy a new stem. Luckily
+you can get stems that have quite a bit of rise in them. If you need
+your bars lifted up a moderate amount, look for a stem with a rise of
+20° to 25°. If you need your bars lifted up higher, try a 40°
+stem. </p>
+
+<p> Most better bikes are now sold with threadless headsets. Thus if
+you have a threaded (traditional) headset you may find it more
+difficult to find such stems. However some companies still make
+them. I've bought a Profile Boa quill stem from a mail order shop, and
+a KF one from the local shop in the past few months. </p>
+
+</blockquote>
+
+<center>
+<p><table align=center cellspacing=0 cellpadding=0 border=0>
+<tr><td>
+<IMG SRC="images/bod-angles1.jpg" width=300 height=336
+alt="S = stem angle" BORDER="0" hspace="0">
+</td>
+<td>
+<IMG SRC="images/bod-angles2.jpg" width=300 height=336
+alt="A = total angle" BORDER="0" hspace="0">
+</td></tr>
+<tr><td colspan=2 align="left">
+
+<i><blockquote>
+Note that stem angle (S) is measured with respect to a right angle
+to the steerer tube, as in the above diagram, left picture. When the
+stem is installed in the bike, it will be oriented like the stem on
+the right. The stem will be angled up by another D degrees, where D =
+90 - H (H is the head angle). Your total angle will be A, which is S +
+D. For the stem in the picture, H = 71°, D = 19°, S = 20°, so A =
+39°.
+</blockquote>
+</i></td></tr> </table></p></center>
+
+<blockquote>
+
+<p> The larger the angle of your stem, the more the length of the stem
+contributes to the height of the handlebars rather than the distance
+of the handlebar from the saddle. You can compute this
+exactly. Compute the angle of your stem when it's installed, call it
+<b>A</b>. This angle is the given stem angle plus (90° minus head
+angle). Then your amount of rise is <b>length * sin(A)</b> and the
+forward distance it gives is <b>length * cos(A)</b>. For example, if
+you have a 20° 100mm stem on a bike with a 71° head tube, <b>A</b> is
+39°. The rise is then 63mm and the forward distance is 78mm. With a
+40° 100mm stem on a bike with a 71° head tube, <b>A</b> is 59°. The
+rise is then 86mm and the forward distance is 52mm. </p>
+
+</blockquote>
+
+<h2>Bodge Your Road Bike to Fit</h2>
+
+<blockquote>
+
+<p> By road bike I mean any bike with dropped bars, from racing bikes
+to touring bikes. You have several options to get the weight off your
+hands. </p>
+
+<IMG SRC="images/bod-profile.jpg" width=214 height=286 align="right"
+     alt="MTB bars on my tourer" BORDER="0" hspace="5">
+
+<p> <b>Swapping to MTB bars.</b> Your first decision you have to make
+is, do you want to keep dropped bars on your bike? If you don't use
+the drop parts of the bars, swapping over to MTB bars is an
+option. This offers an improvement since the position in which your
+hands are next to the brakes and shifters is close to you, near the
+stem, while with dropped bars you have to be out on the brake lever
+hoods (far away) or down on the drops to get at the brakes (and
+shifters if you have integrated shifters). The picture on the right
+shows my old touring bike made ridable by putting on an MTB stem and
+bars. </p>
+
+<p> It used to be the case that this could only sensibly be done with
+bikes that had MTB-style brakes, like cantilevers and V-brakes,
+because until recently there were no brake levers that worked with
+road-style (dual pivot) brakes. Also, there were problems with the
+shifters, because road front derailleurs needed a slightly different
+amount of cable pull than MTB front derailleurs. But this is a problem
+no more, as Shimano has come out with shifters and brake levers for
+straight bars that are compatible with road brakes and
+derailleurs. These components are in the Tiagra and Sora ranges. </p>
+
+<p> If you want to make this move, see the discussion above about MTB
+stems to help you pick the right stem. You'll most likely need a quill
+stem for a 1" headset to make this move. The one I have is a Profile
+105mm 40° stem. Then you only need to find shifters and brake
+levers. Brake levers won't be hard, as levers for both cantilever and
+V-brakes are easy to find, although there's now more choice in V-brake
+levers. For shifters it shouldn't be too bad a problem if you have
+Shimano components and a 7, 8, or 9-speed rear block. Seven speed
+Shimano shifters are a bit difficult to find, but if you phone up
+enough shops you should be able to dig up some nice Deore
+thumbshifters. <a href="http://www.sram.com/prod_f1.html"> SRAM</a>
+make Shimano-compatible Centera and Neos twist-shifters in 7-speed
+versions, and the Centera is available in 5 and 6 speed versions as
+well! </p>
+
+<p> <b>Turning your drop bars upside down.</b> If you don't use the
+drops, you can cut them off and turn the handlebars upside down. Then
+you install the brakes so the levers line up with the forward pointing
+arms. This will reduce the reach to get to the part of the bars you
+can brake from. Note that if you have aero brake levers, installing
+the brakes in the obvious place (with the clamps near the end of the
+bars with the levers pointing back to you) leaves the cable for the
+brakes coming out the of the levers in the direction of the ends of
+the bars, not the direction of the stem. With care, you can bend them
+back so they head towards the stem. I have seen this done, although I
+haven't done it myself. You can also get brake levers that are
+intended to go into the ends of aero bars like the Profile Air Wing,
+and these would do the trick if nothing else works. </p>
+
+<IMG SRC="images/bod-nitto.jpg" width=193 height=297 align="left"
+     alt="Nitto stem" BORDER="0" hspace="5">
+
+<p> <b>Sticking with normal drops.</b> OK, you've decided that you
+like the general idea of drop bars, but just want them higher and
+closer. Let's first look at stems. There's one stem that will make a
+big change, and quickly. It's the Nitto Technomic stem, shown on the
+left on my touring bike. I haven't found any source of them in the UK,
+but <a href="http://www.lickbike.com/i1173050.htm">Lickton's</a> and
+<a href="http://www.sheldonbrown.com/harris/head.html#stems">Harris
+Cyclery</a> in the States sell them. Personally, I found them just too
+tall for me: the head tubes on my bikes are so short that even when
+I'd inserted the stem as far as I could, there was still a huge mast
+sticking out of my headset. I also felt that they look awkward, with a
+very long tall quill, and just a little bit going forward. I think I'm
+enough of a mountain biker to find a forward sloping stem more
+attractive. </p>
+
+<p> Thus I again recommend MTB stems such as the Profile Boa. Make
+sure you get one meant for a 1" diameter headset. The only potential
+problem here is that road bars come in a variety of different
+diameters. Older ones were usually 25.4mm, the same as MTB bars, but
+newer ones are usually between 26.0mm and 26.4mm. Happily, Cinelli,
+the makers of the 26.4mm diameter bars, have now decided to adopt the
+26.0mm size, so there's less of a variation than there used to be.  If
+you buy a front loading stem, like the Profile Boa or KF ones that I
+have, the handlebar clamps will deform slightly, enough to hold 26.0mm
+bars securely. See above, in the MTB section, for a discussion of stem
+angles and lengths. </p>
+
+<IMG SRC="images/bod-mutant.jpg" width=205 height=260
+     alt="upside down Mutant" BORDER="0" hspace="5" align="right">
+
+<p> If you have a threadless headset on your road bike, one option is
+to install a threadless stem upside down. This still won't give you
+much of a rise, so one possibility is to get a MTB threadless stem and
+a shim to allow you to fit the MTB stem to the road steerer. </p>
+
+<p> Now for the handlebar itself. One of my main problems with drop
+bars is that although the position on the flat part of the bars near
+the stem is pretty comfy, it's a long reach to the hoods where I do my
+braking. However, not all handlebars are created equal. The 3T Morphe
+handlebar has a shorter forward pointing section than most other
+handlebars I've seen. In fact I've only seen one other bar (an old
+racers bar found in the back room of my local bike shop) that had as
+short a reach. </p>
+<br clear=all>
+
+</blockquote>
+
+<p><table align=center border=0>
+<tr><td align="center">
+<IMG SRC="images/bod-morph-cin.jpg" width=500 height=209
+     alt="Morphe & Touch bars" BORDER="0" hspace="0">
+</td></tr>
+<tr><td align="left">
+
+<i><blockquote> The 3T Morphe handlebar back to back with the Cinelli
+Touch (which are fairly typical of modern anatomic handlebars). The
+bars in the photo are aligned at the stem area, and the part where the
+bars are together is vertical. The Morphe (on the left) is lower at
+the bottom center of the picture because it curves back toward the
+saddle slightly before turning forward. You can see that the Morphe
+offers a shorter reach to the brake levers than the Touch, and the
+drops aren't as low. Also, the drops are more close to being parallel
+with the tops of the bars than on the Touch, meaning that if you set
+the tops of the bars parallel to the ground, the ends of the Morphe
+bars will be angled down less than on the Touch.  All of these
+features make the Morphe a better choice for putting less weight on
+your hands.</blockquote> </i></td></tr> </table></p>
+
+<a href="tips.html">More Bike Articles</a>
+</body>
+</html>

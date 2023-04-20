@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="bike.css" />
+<title>Myra's Bike Pages</title>
+<META name="description" content="A wide variety of bike info,
+     including tips on equipment and skills for touring, MTBing, and
+     racing.">
+
+<META name="keywords" content="bicycle, bike, MTB, touring, racing, 
+     lighting, women's cycling, women's bikes, bike lighting, bike
+     photos, ride stories">
+</head>
+
+<body>
+
+<div id="wrap">
+
+<div id="header">
+<!--#include virtual="bike_header.html" -->
+</div> <!-- /header -->
+
+<div id="content">
+
+<p> I'm very into cycling. It is one of my main hobbies and is my main
+form of exercise. I ride to get to work and to go shopping, and I ride
+on and off-road for fun when I can find the time. In the past I have
+done alot of riding at night, and have had some fun putting together
+lighting systems for doing so. Nowadays most of the time I ride I have
+my kids with me, either on their own bikes or on the back of tandems
+piloted by myself or my husband. Cycling always has been a part of my
+life, and (as long as I am physically capable) it will continue to
+be.</p>
+
+</div> <!-- /content -->
+
+<div id="menu">
+<!--#include virtual="bike_menu.html" -->
+</div> <!-- /menu -->
+
+<div id="footer">
+<!--#include virtual="bike_footer.html" -->
+</div> <!-- /footer -->
+
+</div> <!-- /wrap -->
+</body>
+</html>

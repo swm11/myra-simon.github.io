@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Roger's pics</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1> Roger's pics</h1>
+
+<img src="images/n01.jpg">
+<br clear=all>
+
+<img src="images/n04.jpg">
+<br clear=all>
+
+<img src="images/n07.jpg">
+<br clear=all>
+
+<img src="images/n08.jpg">
+<br clear=all>
+
+
+</body>
+</html>

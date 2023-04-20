@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Myra's Bike Travels</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+
+<blockquote>
+<h1>Myra's Bike Travels</h1>
+
+<p> I am hoping that one day, this will contain lots of articles,
+stories and links related to bike touring. For now, it just contains
+pointers to my bike touring trips. </p>
+
+<ul>
+<li> <a href="newyork/index.html">New York State 1985</a>
+<li> <a href="../oregon.html">Oregon 1990</a>
+<li> <a href="wales/index.html">Wales 2000</a>
+<li> <a href="ireland/index.html">Ireland 2000</a>
+<li> <a href="scotland/index.html">Scotland 2002</a>
+<li> <a href="../bse.html">Bury St. Edmunds 2003</a>
+
+</ul>
+<a href="../index.html">Myra's Bike Pages</a>
+
+</blockquote>
+</body>
+</html>

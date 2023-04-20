@@ -1,0 +1,151 @@
+<html>
+<head>
+<title> Dynamo (Generator) Lights: Fact vs Fiction </title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1>Dynamo (Generator) Lights: Fact vs Fiction</h1>
+
+<blockquote>
+
+
+<center><table width=310 border=0 align="left">
+<tr><td align="center">
+<IMG SRC="images/dynamo-sm.jpg" 
+alt="FSR" ALIGN="center" BORDER="0" hspace="0" width=301 height=400>
+</td></tr>
+<tr><td align="center">
+<i>old fashioned bottle dynamo and rear light with normal bulb</i></td></tr>
+</table></center>
+
+<p> Dynamos (aka generators) are really looked down on by almost all
+Americans, and many Brits as well. To the uninitiated, a dynamo sounds
+unappealing because it slows you down, makes alot of noise, slips in
+the wet, wears out your tires, and the lights aren't very bright and
+they go out as soon as you stop moving. In fact, almost all these
+things are true of older dynamo systems (where you have a dynamo that
+rubs against the side of your tire and powers incandescent lights both
+front and rear). </p>
+
+<p> The one thing that is not true, even of older systems, is that the
+lights are dim. In fact, even a cheap dynamo front light is brighter
+than any small handlebar-mounted battery-powered front light. Just
+about the brightest of thse battery-powered lights is the Cateye
+HL-MC200 Micro-halogen, which is supposedly a 2.4W light. Dynamo
+headlights are also 2.4W when the dynamo is also used to power a .6W
+rear light. However dynamo lights are a bit more visible and are a bit
+better at lighting up the road than even this light. I think this is
+party because the optics used in dynamo lights concentrates the light
+where you need it (on a patch of ground right in front of you, and off
+to the sides for better side visibility, with very little going
+up). It is also partly because alkaline batteries really aren't that
+good at supplying the currents demanded of them by bright lights,
+while dynamos are very good at providing higher, steady currents. And
+you don't need to use the dynamo to power a rear light as well: if you
+use a standard battery-powered rear light your light will be 3W which
+is quite noticeably brighter than the Cateye Micro-halogen. </p>
+
+<p> When you consider newer systems, you'll find that almost
+everything you learned about dynamo lighting systems is wrong. First,
+that they slow you down. Well, cheap dynamos that rub your tires still
+do slow you down a fair bit, but there are some tire-mounted dynamos
+(more properly called bottle dynamos because they are bottle-shaped)
+that are very efficient, and so have only minimal drag when powering
+your lights. Examples of these are the 
+<a href="http://www.dynosys-ag.ch/indexe.html">Lightspin</a> and 
+<a href="http://www.bumm.de/docu/nojsmenu-e.htm">Busch & Mueller</a>
+S6 dynamos. These can still slip in the wet and cause some wear to
+your tires, but hub dynamos don't. </p>
+
+<p> Hub dynamos take the place of your front hub, and as they spin
+they silently generate electricity. They do this very efficiently
+indeed, so although they do slow you down a tiny bit, at least
+theoretically, you can't even feel the drag. There are two major ones,
+made by <a href="http://www.shimano-europe.com/cycling/">Shimano</a>
+and <a
+href="http://www.peterwhitecycles.com/Schmidt-Lumotec.asp">Schmidt</a>. The
+major difference between them is the amount of drag and the cost. The
+Schmidt and the Shimano both generate about the same amount of drag
+when the lights are on, but the Schmidt has almost no drag when the
+lights are off, while the Shimano still has significant drag when
+off. The old Shimano hub dynamos used to have the same drag on or off,
+but evidently the newer ones have less drag when off. The Schmidt is
+obviously better but it costs more than twice the price!  The
+downsides of hub dynamos are obvious: they weigh a bit more than
+bottle dynamos and require you to rebuild your front wheel. You also
+need to get a switch to turn on and off your lgihts. These can be a
+separate item (Shimano sells a switch that can be used with its hub
+dynamo) or can be built into the front lamp (Busch & Mueller make
+these, and they work with either Schmidt or Shimano hub dynamos). </p>
+
+<table border=0 align=left cellpadding=0 cellspacing=3 width=380>
+<tr><td colspan=2 align=center><i>B&M dynamo lights with standlights</td>
+<tr>
+<td><img width=144 height=250
+ src="images/rear-dynolight.jpg"></td>
+<td><img width=187 height=250
+ src="images/front-dynolight.jpg"></td>
+<tr>
+<td align=center><i>Seculite Plus</td>
+<td align=center><i>Lumotec Oval Plus</td>
+</table>
+
+<p> The next misconception is that your lights go off when you stop
+going forward. Nowadays you can get dynamo-powered lights with
+"standlights". These are LEDs that are powered by a capacitor which
+charges up as you ride along, and they stay lit for about 5 mins after
+you stop. For rear lights with standlights, usually the light is
+itself an LED, so you get the full brightness of the light when you
+stop. For front lights, which use halogen bulbs, the standlight is a
+separate LED, yellow or white, that comes on when you stop. Thus for
+front lights the standlight is quite a bit dimmer than the light you
+get while you're moving, but it's still bright enough to help you get
+noticed while you are stopped. These lights with standlights are made
+by Busch & Mueller
+(B&M). <br clear=all>
+
+<table border=0 align=right cellpadding=0 cellspacing=3 width=255>
+<tr><td><img width=400 height=248
+ src="images/simondawes.jpg"></td>
+<tr><td align=center><i>my husband's commuter bike with Shimano 
+hub dynamo and dynamo-powered B&M lamps</td></table>
+
+<p> The ideal dynamo-powered setup is a Schmidt hub dynamo powering a
+B&M lamp setup such as the Lumotec Oval Senso Plus front light and a
+rear light with standlight such as Seculite Plus, 4DLite Plus, or
+DToplight Plus. If you don't have as much money you'd save a fair bit
+by getting a Shimano hub dynamo, but you should still pay the extra to
+get front and rear lights with standlights. <br clear=all>
+
+<table border=0 align=left cellpadding=0 cellspacing=3 width=260>
+<tr><td><img width=300 height=184
+ src="images/dtoplight.jpg"></td>
+<tr><td align=center>
+<i>battery-powered DToplight on my commuter bike</td></table>
+
+<p> One alternative to using the dynamo to power both front and rear
+lights, is to use the full power of the dynamo to power your front
+light, and to have a separate battery-powered rear light. Ideally the
+rear light should be a British standard or European standard LED light
+for good brightness both straight behind and from the sides, and for
+good battery run-time. This has two main benefits: it allows you to
+have a slightly brighter front light, and it makes installing the
+system somewhat easier (you don't have to wire up the rear light). The
+main disadvantage is that when you turn on your lights you must turn
+on both front and rear light separately. This may seem like a minor
+issue, but for a commuting bike when you're often riding home at dusk,
+it's a good idea to have lights that turn on a quickly and easily as
+possible. The ideal setup for this is to have a hub dynamo and an
+automatic sensor that turns on the lights when it's dark enough. This
+automatic sensor comes with the Shimano hub dynamo switch and with the 
+Lumotec Oval Senso Plus front light. In both these cases, the front
+and rear lights will come on automatically when it gets a bit dark.
+My husband has this setup and just leaves the switch setting on
+automatic (you can also put it on ON or OFF settings as well), and I
+am jealous of his automatic setup. </p>
+
+</blockquote>
+
+<a href="tips.html">More bike and light articles</a>
+</body>
+</html>
+

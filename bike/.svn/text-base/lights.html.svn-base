@@ -1,0 +1,591 @@
+<html>
+<head>
+<title>Halogen-Bulb High-Powered Bike Lights</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1>Halogen-Bulb High-Powered Bike Lights</h1>
+
+<blockquote>
+<p> This somewhat technical article discusses the common higher
+powered lighting systems.  These consist of a lighting head and
+separate battery. It's not about specific systems, although it does
+use specific lights as examples. It's intended as a discussion of the
+ingredients in a typical lighting system, and it should help you make
+up your mind about what you might like to look for in a system. </p>
+</blockquote>
+
+<h2>Table of Contents</h2>
+<ul> 
+<li> <a href="#brightness">How Bright are Your Lights?</a>
+    <ul> <li> <a href="#wattage">Wattage</a>
+         <li> <a href="#pattern">Beam shape/pattern</a>
+         <li> <a href="#overvolting">Over or under volting</a>
+         <li> <a href="#independence">Ability to aim lights independently</a>
+    </ul>
+<li> <a href="#batteries">Batteries</a>
+    <ul> <li> <a href="#rechargables">Why use rechargables at all?</a>
+         <li> <a href="#bat-volt">6 volt vs. 12 volt</a>
+         <li> <a href="#bat-type">Lead-acid vs NiCad vs NiMH batteries</a>
+         <li> <a href="#charging">Charging</a>
+         <li> <a href="#memory">Charge memory and discharging batteries</a>
+         <li> <a href="#bat-shape">Battery shape</a>
+    </ul>
+<li> <a href="#credits">Credits</a>
+</ul>
+
+<a name="brightness"><h2>How Bright are Your Lights?</h2></a>
+
+<blockquote>
+<p> Most of the better bike headlight systems nowadays are based on
+halogen bulbs. The only ones that aren't are systems like the 
+<a href="http://www.cateye.com/MAIN.HTML">Cateye Stadium Light</a>
+which are based on Metal Halide Arc bulbs. These very exotic and
+expensive systems won't be covered here. For
+information on this technology, see 
+<a href="http://www.sheldonbrown.com/marty_light_hist.html"> Marty
+Goodman's article</a>.</p>
+
+<p> So assuming we're sticking to halogen bulbs, what determines how
+bright your light is? Or, perhaps a better question is: what determines
+how useful your lights are?</p>
+</blockquote>
+
+<a name="wattage"><h4>Wattage</h4></a>
+
+<blockquote>
+<p> The most obvious way to quantify how much useful light you get
+from a light is the amount of power consumed by the bulb, which is
+measured in watts (abbreviated W). By and large, the more power
+consumed, the brighter the light.  Very generally speaking, 2W to 3W
+is good for commuting in lit areas, maybe 5W to 6W is needed for
+riding on the road in unlit areas (although people typically use
+anywhere between 2W and 15W depending on their needs), and 10W or more
+is needed for off-road riding at night (although perhaps you can get
+by with as little as 6W). However, there are many variables that need
+to be taken into consideration.</p>
+</blockquote>
+
+<a name="pattern"><h4>Beam shape/pattern</h4></a>
+
+<blockquote>
+<p> If the light is put in the wrong place (has the wrong shape), it's
+not any good. For example, the old Specialized Preview Plus (5W)
+lights put out a very wide light that had very little depth to it.
+For road use, it allowed a good view of the edge of the road, but
+wasn't very good at showing you what was on the road itself. It was
+useless for riding off-road, since it illuminated very little of the
+trail. I find that I prefer a round patch of light, such as is
+provided by MR-11 bulbs.</p>
+
+<p> Does the beam have a good pattern? Is the light distributed
+smoothly, or are there bars or bands of lighter/darker patches in the
+beam? For example, the old VistaLite 400 lighting head has dark rings in
+its beam when used with normal (clear) bulbs. (To compensate for this,
+VistaLite frosted the 10W bulbs provided with its 420 and 430 lighting
+systems, but this tended to scatter the light in all directions,
+putting less light where you want it. Backyard side-by-side tests with
+a 6W clear bulb and a 10W frosted demonstrate that the 6W bulb
+provided about the same amount of usable light as the 10W bulb.) Some
+people find that these dark/light bands hide irregularities in the
+ground and don't like them. I don't mind them, but this is a matter of
+personal preference.</p>
+
+<p> Many bike lighting systems (for example, 
+<a href="http://www.vistalite.com/01code25.html">VistaLite
+Nightstick</a> series, all
+<a href="http://www.niterider.com/products.html">NiteRider</a>
+bike lighting systems, and 
+<a href="http://www.cateye.com/product.htm">Cateye</a> Daylite II)
+are constructed out of MR-11 bulbs. An MR-11 "bulb" consists of the
+actual bulb (light-generating part) and a very good reflector, put
+together into a very small (about the same diameter as a 35mm film
+can, but shorter) and neat package. Since the bulbs are self-contained
+units, the lighting heads that house them only need to provide some
+protection and a way of getting power to the bulb; thus they tend to
+be small and light.  The bulbs provide a beautifully smooth, round
+beam. Typically, there is a brighter patch in the interior (the angle
+of this bright patch, be it 10 or 15 degrees or whatever, is what is
+meant by the the angle of the bulb, if it is specified) and a much
+wider (about 120 degrees) round patch of dimmer light surrounding the
+bright patch. </p>
+</blockquote>
+
+<a name="overvolting"><h4>Over or under volting</h4></a>
+
+<blockquote>
+<p> This one is more subtle. This
+has to do with how much voltage is applied to the bulb, vs how much
+voltage the manufacturer expected to be applied to the bulb. To
+sum up this angle briefly, if you apply more voltage than the
+manufacturer specified (overvolting), then you consume more power and
+the bulb burns more brightly, but you get more extra light than extra
+power consumption. This is a win, but the downside is that the bulb
+burns out more quickly. Conversely, if you apply less voltage than the
+manufacturer specified (undervolting), then you consume less power and
+the bulb burns dimmer, but you get more of a reduction in light than
+reduction in power consumption. The upside is that the bulb life is
+lengthened. </p>
+
+<p> For the technically inclined, here is a graph (generously provided by
+William Burrow) that shows how the relationship between these
+quantities. (For the non-technically inclined, skip to ***.)
+It shows how bulb life (Life), the amount of light put out
+by the bulb (Luminous flux), and power consumed by the bulb (Power)
+vary when different voltages are applied to the bulb.  </p>
+</blockquote>
+
+<center><p>
+<img src="images/lamplife.gif">
+</p></center>
+
+<blockquote>
+<p> The horizontal axis is the voltage applied to the bulb, where the
+middle of the graph is the voltage recommended by the manufacturer,
+the "nominal voltage" (shown as 100%). The vertical axis represents
+the variation in the plotted quantities when different voltages are
+applied. All the curves cross at the center of the graph (at the 100%
+mark on both scales) since the plotted quantities all represent
+variations from the normal operating mode (when you apply the nominal
+voltage), not actual numbers. So, for example, when you apply 110% of
+the nominal voltage, the light output goes up by nearly 40%, but the
+power consumption goes up by only about 15%. Thus you're getting more
+light for your power.  However, the bulb life is down to about 33%
+(1/3) of what it would be if run at the nominal voltage. Since for
+some bulbs (notably MR-11s) the bulb life is on the order of thousands
+of hours (around 2000) when operated at nominal voltage, this may
+very well be a reasonable compromise. At the far right of the scale, at
+120% of nominal voltage, we get an even better light/power ratio, but
+the bulb life is now 1/10 of what it would be at nominal voltage. This
+seems like a good upper limit to the amount you should overvolt
+a long-lived bulb.</p>
+
+<p> To see the effect of undervolting, look to the left of 100%. We see
+that Luminous flux decreases faster than Power, so you get less
+efficient light, but much longer bulb life.</p>
+
+<p> *** Both overvolting and undervolting are used by today's systems.
+<a href="http://www.niterider.com/products.html">NiteRider</a>
+usually overvolts the bulbs in its current 6V systems; however
+older NiteRider bulbs weren't overvolted and are therefore dimmer than
+current ones. VistaLite offers overvolted bulbs for its Nightstick series
+lighting systems: their H.O.T. (Halogen Overdrive Technology) is
+simply overvolting. </p>
+
+<p> Since you get less light for the power consumed, undervolting seems
+like a bad idea. That is, unless you want to get several lighting
+levels out of one bulb. NiteRider does this with its Digital
+systems. For example, the Digital Pro-6 has three power settings with
+one bulb. The 15W setting is done by slightly overvolting the
+bulb. The 10W setting is done by providing less voltage, probably
+slightly undervolting the bulb. The 6W setting results from
+undervolting the bulb even more. It's terribly inefficient, but if
+you need that low setting to get you home after a long ride, it can be
+a good thing.</p>
+</blockquote>
+
+<a name="independence"><h4>Ability to aim lights independently</h4></a>
+
+<blockquote>
+
+<p> If you have two bulbs of differing power (a high and low beam),
+it's useful to be able to point them in different places. Since you'll
+use the low beam when you're going slower, it's best to have it
+pointed somewhat close to the bike to illuminate the details near
+you. You'll use the high beam (or both beams) when you're going
+faster, so you'll want to point the high beam further from the bike,
+to illuminate the road/trail further ahead. If you have a dual-beam
+system where the lights are stuck together with no independent
+movement (as in NiteRider dual-beam systems), you don't have this
+option. Having completely separate lighting heads (as in the VistaLite
+Nightstick systems) or separately aimable bulbs in one mount (as in
+the Specialized Fireball systems) does give you this option.</p>
+
+</blockquote>
+
+<a name="batteries"><h2>Batteries</h2></a>
+
+<blockquote>
+<p> Next we consider the source of power: the battery. Most batteries
+used for bike lighting systems are sealed lead-acid or nickel cadmium
+(NiCad) batteries. Some newer systems use Nickel Metal Hydride (NiMH)
+batteries, which offer increased energy density and lack cadmium, a
+poisonous heavy metal. </p>
+</blockquote>
+
+<a name="rechargables"><h4>Why use rechargables at all?</h4></a>
+
+<blockquote>
+<p> Most cheap, low-powered lights are designed to be operated with
+disposable (e.g. alkaline) batteries, while the better, higher-powered
+systems use rechargable batteries. One reason for this is obvious:
+since the lights consume alot of power, you'd be spending alot of
+money replacing disposable batteries if you used them. There's another
+aspect too, which is just as important: the most common kinds of
+disposable batteries (alkalines and zinc-carbon batteries) have a high
+internal resistance, which means basically that they have difficulty
+supplying the high currents that bright lights need. Alkalines can be
+used in higher-powered systems, but are best combined with a voltage
+regulator (such as the <a
+href="http://www.cs.indiana.edu/hyplan/willie/lvr.html">LVR2</a>) and
+wired up in such a way that no one cell provides too much
+current. Zinc-carbon batteries have even more internal resistance than
+alkalines, and thus are nearly useless for lighting applications.</p>
+
+<p> Lithium cells, however, have a very low internal resistance, but they
+are very expensive. Randonneurs (cyclists who ride very long
+distances at a stretch, going on well into the night and sometimes
+overnight) can find disposable battery packs made of these cells
+useful. </p>
+</blockquote>
+
+<a name="bat-volt"><h4>6 volt vs. 12 volt</h4></a>
+
+<blockquote>
+<p> Most systems either use 6V or 12V (or 13.2V) batteries. I usually
+refer to batteries with 13.2V as "12V systems", since there isn't that
+much difference (the extra cell in the 13.2V system is put there to
+overvolt a nominally 12V bulb). </p>
+
+<p> Usually, 12V batteries have higher capacity than 6V batteries.  A
+6V NiCad battery will probably be 4.5 to 5 amp-hours, giving you 27 to
+30 watt-hours of power. (The capacity in watt-hours allows you to
+estimate how long your light will run. Take the wattage of your bulb,
+divide the capacity in watt-hours by the wattage, and you have a
+theoretical runtime. To make it more accurate multiply by a 0.9 fudge
+factor.) A 12V NiCad battery will typically be 2.5 to 3 amp-hours,
+giving you 30 to 36 watt-hours of capacity. Commercial NiMH systems
+seem to all use 12V batteries, and these have even higher capacities,
+going from 44 to 52 watt-hours. </p>
+
+<p> Bulbs for 6V systems are usually available in lower powers (5W to
+15W for most systems) than bulbs for 12V systems (8W to 35W, the most
+common being 12W and 20W). However, one company, <a
+href="http://www.lumicycle.co.uk">Lumicycle</a>, offers 5W bulbs
+for its 12V system. </p>
+</blockquote>
+
+<a name="bat-type"><h4>Lead-acid vs NiCad batteries vs NiMH</h4></a>
+
+<blockquote>
+<p> Lead acid batteries come with the cheapest systems, NiCad
+batteries come with more expensive systems, and NiMH batteries come
+with the most expensive systems. There is a simple reason for this:
+good quality NiCad cells are cost a fair bit of money, and NiMH cells
+are even more expensive. The cost of a NiCad or NiMH powered lighting
+system is usually dominated by the cost of the battery!</p>
+
+<p> NiCad and NiMH batteries have many desirable characteristics. If
+they are treated well, both will outlast lead-acid batteries,
+providing more charge/discharge cycles, with NiCad being even better
+than NiMH. Lead acid batteries typically last for 200-400 cycles, NiMH
+for 300-1000 cycles, and NiCad 300-2000 cycles. For a given capacity,
+a NiCad battery will weigh less than a lead-acid battery, and NiMH
+will weigh less yet. A 12V 4Ah lead-acid battery weighs just under 2
+kilograms, while a 12V 4Ah NiCad battery would weigh about 1200 grams,
+while a 12V 4Ah NiMH battery weighs about 720 grams. The main
+disadvantages of NiCad and NiMH batteries are their high price and the
+fact that they can slowly self-discharge, losing about 1-3% of their
+capacity per day. Lead-acid batteries retain very nearly their full
+charge over a long period of time (months).</p>
+
+<p> As you are powering your light, the batteries lead-acid batteries
+discharge in slightly difference ways. The voltage of a lead-acid
+battery drops off with time, gradually dimming your lights. However, a
+NiCad or NiMH battery keeps almost the same voltage until it's nearly
+exhausted. This aspect of NiCads is both a benefit and a drawback. It
+can help you to get more useful energy out of your battery, as your
+lights will burn at full power until the battery is close to empty.
+However, once your lights start to dim or go yellow, you must turn
+them off immediately to avoid damaging the battery. Thus you get
+little to no warning when your battery is about to run out of power.</p>
+
+<p> A lead-acid battery has somewhat higher internal resistance than a
+NiCad or NiMH (although much less than an alkaline), which means that
+it isn't as good as a NiCad or NiMH at supplying large amounts of
+current.  However, there is some variation within the brands of
+batteries. The
+<a href="http://www.hepi.com/monobloc.htm">
+Hawker Energy Cyclon</a> batteries
+supplied with VistaLite 420 and 430 systems have 
+less internal resistance than other types of lead-acid batteries (such
+as those provided with the 
+<a href="http://www.niterider.com/products/bike_trailrat.html">NiteRider</a>
+Trail Rat). The 5 amp-hour Cyclon battery that came with my VistaLite
+430 does about the same in powering a 10W bulb as the Trail Rat
+battery: they will both allow a 2.5 hour burn time. However, the 
+Cyclon does much better at supplying higher currents. According to a 
+<a href="http://www.hepi.com/images/sccpgrph.gif">chart</a>
+given by Hawker, the battery will supply 15W of power for about 1.5
+hours, while NiteRider clearly states (in their <a
+href="http://www.niterider.com/techinfo/geninfo_charging.html">
+Charging Information</a> page) that if you put a 15W bulb in the Trail
+Rat, you will get only about 20 to 30 minutes of run time.</p>
+
+<p> The temperature at which a battery is used affects the available
+capacity. If it's cold, the internal resistance of the battery
+increases and the chemical reaction slows down, so you get less usable
+capacity. This effect is more pronounced with high currents. This
+effect is worst with lead-acid batteries, although NiCad and NiMh
+batteries suffer from it a bit too. However, if you are using your
+batteries in Artic conditions (-20°C or below) you'll need to take try
+to protect even NiCad or NiMH batteries from the cold. </p>
+</blockquote>
+
+<a name="charging"><h4>Charging</h4></a>
+
+<blockquote>
+<p> The best way to charge a lead-acid battery is with a constant
+voltage, while NiCads and NiMH prefer a constant current. Sadly, very
+few systems come with good chargers. They come with simple AC/DC
+converters that will damage your battery if you leave them plugged in
+longer than the instructions say to. The faster the battery is being
+charged, the more important it is to unplug it when the charge is
+finished. </p>
+
+<p> The best solution is to have a specialty charger for the type of
+battery you have. One option is a smart charger. A smart charger
+charges at a high rate (via a high constant voltage for lead-acid
+batteries, and a high constant current for NiCad and NiMH batteries),
+and then when it detects that your battery is full, it switches to
+trickle mode, a much lower charge rate that maintains a full battery
+(via a lower constant voltage for lead-acid batteries, and a lower
+constant current for NiCads). Power Sonic makes a variety of smart
+chargers for lead acid batteries, and they are highly recommended. For
+example, PSC-12500-A is a charger for 12V 2-10 amp hour lead acid
+batteries. <a href="http://www.mouser.com/">Mouser Electronics</a> in
+the US sells them, search for "Power Sonic charger". In the UK, you
+can get good smart lead-acid chargers from Maplin. </p>
+
+<p> For lead-acid batteries you can either buy a smart charger that
+will charge your battery quickly, or you can make (pretty cheaply) an
+overnight charger. The latter sort of charger basically charges your
+battery at the trickle rate at all times. It will take maybe 8 to 10
+hours to charge your battery, but it is absolutely safe for the
+battery, and much easier to build if you want to go the D-I-Y
+route. See <a href="charger.html">
+here</a> for details on how to make your own. </p>
+
+<p> For NiCads and NiMH, the situation is more complex, as a true
+trickle charger will take far too long to charge the battery for it to
+be practical. A smart charger is the best and safest. However, they
+are expensive, so manufacturers almost never include them with their
+lighting systems. Instead, they include a simple AC/DC converter that
+charges at a modest rate, typically a rate that will charge the
+battery in about 14 hours. The problem here is that they don't shut
+off when the battery is full, and if you leave the battery plugged in,
+you will overcharge it. In NiCad batteries this results in voltage
+depression (see the section on Charge memory and discharging batteries
+below).  In NiMH batteries, this damages the battery, leading to fewer
+charge/discharge cycles. You can make a charger that will charge for a
+certain period of time and then switch off. This is somewhat
+complicated, and if you have only partly discharged your battery, this
+can still result in overcharging. The best way to care for your
+batteries is to get a smart charger to use with them. Unfortunately,
+there are no off-the-shelf chargers immediately usable for bike
+lighting batteries, and so you must either make one from scratch
+yourself or modify a charger meant for something else. See <a
+href="charger2.html">here</a> to learn how to construct a NiCad bike
+battery charger from a power tool charger. See <a
+href="charger3.html">here</a> for info on NiMH smart chargers. </p>
+
+<p> A compromise between stupid AC/DC converter and specialty chargers
+are provided by some of the NiteRider systems. The best of these (for
+example on the Digital Pro-12) have circuitry that monitors how much
+of the battery has been drained while the lights are on, and then when
+charging, switches over to trickle mode when just that capacity has
+been replaced. Some of the NiteRider systems (such as the Digital
+Premium Systems) just charge for a set period of time, then switch to
+trickle mode. Both of these chargers are better than plain AC/DC
+converters and are worth having, but not all NiteRider systems come
+with them. Read the charger information carefully to find out what
+kind of charger it comes with before buying a NiteRider system.</p>
+</blockquote>
+
+<a name="memory"><h4>Charge memory and discharging batteries</h4></a>
+
+<blockquote>
+<p> All rechargable batteries are composed of several cells wired in
+series. Lead-acid cells are 2V each, so a 6V battery has 3 cells.
+NiCad and NiMH cells are 1.2V each, so a 6V battery has 5 cells. You
+should never completely discharge a rechargable battery of any
+kind. This can lead to cell reversal. This happens when one cell has
+slightly less capacity than the others (a common occurrence due to
+small manufacturing variations).  When the capacity of the weaker cell
+is exhausted, the other cells continue to happily pump current into it
+in the reverse direction, thus destroying the cell. This in turn
+destroys your battery, unless you can take it apart to replace the
+offending cell.</p>
+
+<p> This is worth repeating: <b>Do not ever completely discharge your
+NiCad, NiMH, or lead-acid battery</b>. Once the lights go yellow or
+dim, turn them off.</p>
+
+<p> Some people think that NiCad batteries should be completely
+discharged now and then to prevent loss of capacity via the "memory"
+effect. This is not the case. To explain why, I'll discuss "memory",
+and what you can do to avoid it. </p>
+
+<p> Most people think NiCad "memory" comes from recharging your
+batteries after only partial discharge. The folk lore is that the
+battery somehow "remembers" the smaller capacity that was used, and
+only allows you to use this capacity in the future. This is rubbish.
+This effect has never been documented in any consumer system, in
+certainly not in bike lights.  </p>
+
+<p> However people in the battery industry use the term "memory" to
+apply to another phenomena that NiCad batteries do exhibit, which is
+more properly called voltage depression. Voltage depression is caused
+by overcharging NiCad cells at a slow rate (typically, the rate given
+by cheap AC/DC converters provided as chargers by light
+manufacturers). Once the battery is charged, the additional energy
+being added to the battery is converted into heat, and the heat
+changes the crystal structure of nickle and cadmium alloys, producing
+a different kind of crystal that produces less voltage than the
+desired crystal structure. When the battery is then discharged, the
+presence of the bad crystals means that they voltage of the battery is
+lower than it ought to be. The result is a somewhat dimmer, more
+yellow light, where before they were whiter and brighter. </p>
+
+<p> Please note that voltage depression only results from overcharging
+your battery at a low rate. If you overcharging your battery at a high
+rate, you will do irreparable damage to the battery. </p>
+
+<p> There are two ways to avoid "memory". (I must admit that I hate
+the term memory as applied to voltage depression, because it has
+nothing to do with what most people think of a NiCad "memory", and
+because the battery isn't "remembering" anything, it has just been
+overcharged.) The best way to avoid it is to get a charger that
+doesn't overcharge the battery, namely a smart charger that switches
+to a very low current when it detects that the battery is full. See <a
+href="charger2.html"> here</a> for more info on smart chargers.</p>
+
+<p> An alternative, if you really don't want to invest in a smart
+charger, is simply not to worry about it. The main symptom of a
+battery that is suffering from voltage depression is that after using
+your lights for awhile they start to go slightly dimmer and yellowish,
+but then remain this way for quite some time rather than continuing to
+get dimmer and dimmer. The dimmer light is due to the battery
+discharging its energy at a slightly lower voltage (about 0.1V/cell)
+than it should.  If you continue to use your battery through this
+slightly-dimmer phase, the problem goes away, as the less desirable
+crystals give up their energy. When the battery is recharged, the
+better crystals are re-formed. If you do this, please keep in mind
+that when the light starts to get dimmer and dimmer as the battery
+capacity reaches its end, you must turn off your lights. If you
+discharge the battery to lower than about 1 V/cell, you run the risk
+of damaging the battery through cell reversal. </p>
+
+<p> The fact that doing a deep discharge (down to about 1 V/cell) of
+your battery cures the problem with voltage depression is probably
+what lead to the myth that you should always discharge the battery
+before recharging it. However, somehow the concept of "deep discharge"
+has gotten mixed up with "full discharge" (down to 0V/cell), which is
+quite likely to damage your battery. In this case, the cure (a full
+discharge which can result in cell reversal) is far warse than the
+disease (voltage depression, which only gives you slightly dimmer
+lights the first time you use the battery after it developes the
+problem). </p>
+
+<p> This may be not what you are used to hearing about NiCad memory.
+The problem is that misinformation (the idea that NiCad "memory" is a
+loss of capacity caused by recharging after only a partial discharge)
+is so prevalent that many bike light manufacturers believe in it and
+propagate it. However, NiteRider at least some has some pretty good
+info about <a
+href="http://www.niterider.com/techinfo/geninfo_battery2.html">
+battery care</a>. (Even here there is conflicting information. They
+suggest that "To prevent OVERCHARGING: Do NOT charge your battery
+until it has been fully drained (or charge it only enough to replenish
+it)" although they make it clear just below that you should not drain
+the battery beyond the point where the light turns yellow/dim. I
+presume they're hoping that the customer will figure out that "fully
+drained" means "until the light turns yellow/dim".)
+</p>
+
+
+</blockquote>
+
+<a name="bat-shape"><h4>Battery shape</h4></a>
+
+<blockquote>
+<p> Batteries basically come in two shapes: more or less rectangular ones
+in padded nylon bags that you strap to your frame, and in water
+bottles. By and large, only NiCads come in water bottle shapes, while
+both NiCads and lead-acids come in rectangles.</p>
+
+<p> With my VistaLite 430 I got a rectangular lead-acid battery. I
+struggled to find a place to hang it. I couldn't attach it to my top
+tube because it had three unexposed cables going along the top of it,
+separated from the frame with little rubber donuts. I couldn't put the
+straps on top of the cable, and it wouldn't fit between the cables and
+the frame. I tried mounting the battery under the seat, and at the
+intersection of the seat tube and top tube (where the cables were in
+housing) but finally gave up. </p>
+
+<p> I unhooked the cables, threw away the little rubber donuts, and
+put the cables through thin (about 4mm diameter) plastic tubes,
+available from the local bike shop. This protected the frame much
+better, since the rubber donuts always collected themselves at one end
+of the cables and let the cables scratch the frame anyway. It also
+allowed me to put the straps on top of the cables. So I did. There's
+an additional stabilizing strap that goes around your down tube to
+stop the battery swinging around. I did that up and after a few weeks
+of riding noticed that the paint was being rubbed off my frame where
+the corner of the bag met the downtube. Arrrgggg... </p>
+
+<p> So I Hammerited the bare spot and put a piece of electrical tape
+over it. Then I noticed that a hole had been worn in my bag at that
+place.  I dismantled an old bike glove and sewed a piece of the palm
+(padded leather) to the bag at the corner. That worked, but it was
+still a bit of a pain to take on and off with all those velcro
+attachments.</p>
+
+<p> Then I got a water bottle NiCad battery, and my worries were
+over. The moral of this story is that water bottle-shaped batteries
+are a much better approach. </p>
+</blockquote>
+
+<a name="credits"><h2>Credits</h2></a>
+
+<blockquote>
+<p> Most of this information I learned by subscribing to the 
+<a href="http://www.cycling.org/lists/bikecurrent/">bikecurrent</a>
+mailing list. I would like to thank subscribers to this list,
+especially Marty Goodman, for answering my many questions.</p>
+
+<p> More information on bike lights, batteries, charging, and NiCad
+"memory" and voltage depression are available from:</p>
+</blockquote>
+
+<ul>
+<li> William Burrow's 
+<a href="http://www.purl.org/bicycling/FAQ/bikecurrent-FAQ/">
+bikecurrent FAQ</a>
+
+<li> Marty Goodman's 
+<a href="http://www.sheldonbrown.com/marty_sla-nicad.html">
+article on batteries</a>
+
+<li> Francis Cooke's page on 
+<a href="http://www.audax.uk.net/lights/">bike headlights</a>
+
+<li> Sci.Electronics.Repair FAQ
+<a href="http://www.repairfaq.org/ELE/F_NiCd_Battery.html">
+NiCad Battery Info</a>
+
+<li> A very long and very technical 
+<a href="http://www.antonbauer.com/handbook/handbook.html">article</a>
+on voltage depression and other issues by Anton/Bauer, makers of NiCad
+video recorder batteries.
+
+<li> "Eveready" NiCad cells 
+<a href="http://data.energizer.com/batteryinfo/application_manuals/nickel_cadmium.htm">data book</a>.
+
+<li> <a href="http://www.panasonic.com/industrial/battery/oem/">
+Panasonic</a> battery info.
+
+</ul>
+
+<a href="tips.html">More bike and light articles</a>
+</body>
+</html>

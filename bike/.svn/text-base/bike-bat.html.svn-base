@@ -1,0 +1,191 @@
+<html>
+<head>
+<title>Care and feeding of bike light batteries</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+
+<h1>Care and feeding of bike light batteries</h1>
+
+<blockquote>
+
+<p> Much of this information is in the <a
+href="lights.html">High-Powered Lighting Systems</a> article, but I've
+put the info here in a somewhat more informal way. </p>
+
+<p> The most powerful lights, and the most expensive ones, are those with
+separate lighting heads and batteries. The battery is a substantial
+cost of the lighting system. The battery is also the most likely thing
+to die and leave your lighting system unusable. So taking care of your
+battery is essential. Unfortunately, many systems come with lousy
+chargers and inadequate instructions, and there are quite a few myths
+out there about rechargeable batteries that make things even more
+difficult. </p>
+
+<p> The three major kinds of battery are sealed lead-acid, NiCad (nickel
+cadmium), and NiMH (nickel-metal hydride). As you go from lead-acid to
+NiCad to NiMH, the batteries get more expensive, and are smaller and
+lighter for the same capacity. So if you have lots of money you
+probably have a NiMH system, while if you're on a tight budget you
+probably have one with a lead-acid battery. These batteries have
+different characterists and charging requirements, but they all have a
+couple things in common: none of these batteries likes to be
+overcharged, and you should never 100% discharge any battery. So when
+your lights go dim and yellow, no matter what kind of battery you
+have, turn off your lights. </p>
+
+</blockquote>
+
+<h4>Lead-acid batteries</h4>
+
+<blockquote>
+
+<p> Lead-acid batteries slowly drop in voltage as they power your
+lights. This means that your lights will dim slowly as they get
+empty. Once they get noticeably dim, turn them off, as lead-acid
+batteries are easily damaged when discharged too low. They are not
+very good at providing high currents: if you hook them up to a very
+bright bulb they'll go flat very quickly. What's too high a current
+for your lead-acid battery depends on the voltage of the battery
+(whether 6 or 12V) and the make of battery. For a standard cheap 6V
+battery, 10W is about the most you can get out of it, while a Hawker
+Cyclon battery can supply 20W easily. If you want more than this,
+you'll have to use NiCads or NiMH batteries. Lead-acid batteries also
+lose capacity when it's cold (near or below freezing).  </p>
+
+<p> Lead-acid batteries are best charged using a constant voltage
+source. There are two basic ways of charging them: quickly and
+slowly. The voltage for a quick charge (also called bulk charge) is
+higher than the voltage for the slow charge (also called float
+charge). The problem is that if you leave your battery attached to the
+higher (bulk) voltage for too long, you will destroy it. So a proper
+fast charger detects when the battery is full and switches to a float
+voltage. If you attach your battery to the float voltage, it charges
+slowly, but then you can leave it hooked up to this voltage forever
+and the battery will be just fine. </p>
+
+<p> The chargers that come with lighting systems that use lead-acid
+batteries are almost always simple AC/DC chargers. They usually apply
+a voltage that is far too high for the battery, and will kill it if
+you leave the battery plugged in for too long. Unfortunately, while
+the instructions you get with the lights tell you how long a full
+charge would be (i.e., how long you'd charge after you drained the
+battery until the lights went noticeably dim), if you recharge for
+this entire amount a battery that's only partly discharged you will
+end up overcharging it. So you have to guess how much of the capacity
+you've used, and cut down the charging accordingly. So for example, if
+you estimate that you've used half the capacity of the battery and 8
+hours is a full charge, then charge for at most 4 hours. But this
+requires guessing how much you've used the light, which can be
+difficult if you're using different powers of bulbs or turning your
+lights off when you're not using them. </p>
+
+<p> To avoid this guesswork and keep your battery fully charged but not
+overcharged, you should get a proper charger. You can buy a good fast
+charger from Maplin (see their 
+<a href="https://catalogue.maplin.co.uk/mainframe.asp">catalog</a>,
+look left for headings Electrical, then Batteries & Chargers, then
+Chargers then Sealed Lead Acid Battery Chargers, they cost 30 quid or
+more), or you can make your own float charger for very little money
+(see <a href="http://simon.trinhall.cam.ac.uk/bike/charger.html">my
+article</a> on it). While it may seem
+like alot of expense or bother for a lighting system that's reasonably
+cheap, remember that it won't work at all if your battery dies through
+having been overcharged or over-discharged. </p>
+
+<p> Lead-acid batteries last the longest when they are kept topped up, so
+you should charge them as soon as possible after you use them, and
+when you put them away for the summer you should make sure they're
+fully charged up.  </p>
+
+</blockquote>
+
+<h4>NiCad batteries</h4>
+
+<blockquote>
+
+<p> NiCads are a better choice than lead-acid batteries for many
+situations. They stay at about the same voltage through most of their
+discharge cycle, so they keep your lights nice and bright until the
+battery is nearly empty, then they go dim very quickly. They are
+generally a fair bit lighter than a lead-acid battery for the same
+capacity, and often smaller as well. They can handle high currents
+better than lead-acid batteries. They also work better in the cold,
+although they are affected by extreme cold (like you get in
+Alaska). However, they self-discharge, losing 1-3% of their capacity
+per day, so they aren't as useful if you want to have a rechargeable
+system ready to go at a moment's notice. </p>
+
+<p> Like lead-acid batteries, they suffer when overcharged and can be
+damaged by being fully discharged. Unfortunately, there seem to be
+quite a few myths about these batteries. The most prevalent one is
+that they can't be topped up after being only partly discharged
+because they have "memory", so they will remember this and only allow
+you to use this amount of capacity in the future. </p>
+
+<p> This only bears a faint resemblance to the facts. NiCads do suffer
+from "memory" but it is not a reduction of the capacity of the
+battery, but a reduction of the voltage of the battery. A battery
+suffering from memory will still power your lights, but since it does
+so at a slightly lower voltage than it would if it were in top
+condition, the lights look a bit dim and yellowish. Second, it is not
+caused by topping up your battery after only a partial discharge; it
+is caused by overcharging your battery by leaving it plugged into a
+stupid charger (the kind supplied with most bike lighting systems)
+after the battery is already charged. Third, memory isn't
+permanent. If you have a battery suffering from memory (dim lights
+even when fully charged), here's how you fix it: do a carefully
+controlled discharge. What you want to do is discharge the battery
+until its voltage is down to 1V/cell. For a 6V battery, this is 5V.
+If you don't have a voltmeter, you can approximate this by discharging
+until your lights start to get noticeably dim and yellow. Then turn
+the lights off: never 100% discharge your battery, or you can destroy
+it. </p>
+
+<p> The best way to avoid getting memory is using a smart
+charger. This charges your battery until it is full, then switches to
+a tiny current that counteracts self-discharge. Smart chargers for
+NiCads batteries are harder to find than for lead-acid, so the easiest
+route is to modify a power tool charger (info <a
+href="http://simon.trinhall.cam.ac.uk/bike/charger2.html">here</a>). If you
+don't want the expense or trouble of this you should try to estimate
+how much you've discharged your battery, and cut down the charge time
+accordingly, as described for lead-acid batteries. Then if you
+discover you've got memory, do the carefully controlled discharge
+described above. </p>
+
+<p> NiCads don't need to be stored full; they can be left in whatever
+state they were when you finished your ride. Since they
+self-discharge, I tend to leave them uncharged until the evening
+before my next night ride, when I charge them up.  </p>
+
+</blockquote>
+
+<h4>NiMH batteries</h4>
+
+<blockquote>
+
+<p> NiMH batteries are the best technology currently offered in bike
+lights, and they are correspondingly the most expensive. They tend to
+be smaller and lighter than NiCads with a similar capacity. In many
+ways they are similar to NiCads: they self discharge at about the same
+rate, they can supply high currents well, they work better than
+lead-acid batteries in low temperatures, and they can be left in any
+state (charged or part discharged) when stored. </p>
+
+<p> Like NiCads they suffer from overcharging. There is a myth that since
+NiMHs don't suffer from memory that you can charge them up as often or
+and as much as you like. This very misleading: NiMHs don't suffer from
+"memory", but they dislike overcharging even more than NiCads. The
+result of overcharging is permanent damage to the battery rather than
+the curable problem of "memory". If you overcharge your battery using
+a stupid charger, you will greatly reduce its lifetime. This is why
+many systems come with smart chargers. If you have a choice between
+similar systems, one with a stupid charger and one with a smart
+charger, go for the second one. It will save you buying a new battery
+if you kill the first one. </p>
+
+</blockquote>
+
+<a href="tips.html">More bike and light articles</a>
+</body>
+</html>

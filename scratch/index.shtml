@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="../main.css" />
+<title>Scratch</title>
+</head>
+
+<body>
+
+<div id="wrap">
+
+<div id="header">
+<!--#include virtual="../sub_header.html" -->
+</div> <!-- /header -->
+
+<div id="content">
+<h2>Scratch</h2>
+
+<img src="Scratch_cat_large.png" alt="Scratch cat" align="right" hspace="10">
+
+<p> Scratch is a free programming language from MIT's Lifelong
+Kindergarten group. It's designed to make programming fun and
+interesting for beginners of all ages, but it's especially meant to
+appeal to kids. You can download it for free from the <a
+href="http://scratch.mit.edu/">Scratch web pages.</a> The clever
+people at MIT, not being content with just giving you a great
+programming language, have designed some fun stuff to go with it, so
+your Scratch programs can interact with the real world. </p>
+
+<p> LEGO WeDo was designed by a collaboration between LEGO Education
+and the MIT Lifelong Kindergarten group. The core of a LEGO WeDo
+construction kit is a "hub" that connects to your computer via USB. On
+top of the hub are two attachment points just like you find on, for
+example, a LEGO Power Functions battery box. Indeed, a LEGO Power
+Functions motor can attach to it, but so also can the WeDo-specific
+distance and tilt sensors. When you plug the WeDo hub into your
+computer when Scratch is running the drivers are automatically
+installed, and soon some new control blocks pop up under the Motion
+palette. These blocks let you turn the motor on and off and control
+its speed and direction. If you plug in the tilt or distance sensor,
+blocks in the Sensing palette allow you to input data from them. The
+information is a bit crude, for example the tilt sensor only returns 0
+(no tilt), or 1, 2, 3, or 4 depending on which way the tilt sensor is
+tilted. This doesn't indicate how much it's tilted, just that it's
+tilted <i>enough</i>. <p>
+
+<img src="Picoboard_cr_tiny.jpg" alt="Picoboard" align="left" hspace="10">
+
+<p> The Picoboard is a credit-card sized circuit board that connects
+to your computer by USB. It has various inputs: a slider, a
+pushbutton, a sound sensor, a light sensor, and 4 analogue
+inputs. </p>
+
+<p> I've been playing with Scratch, WeDo, and the Picoboard a fair
+bit. Here I will record some projects that I've come up with. </p>
+
+<br clear=all>
+
+<hr>
+
+<h3>Picoboard Pong</h3>
+
+<img src="pong1_pico.gif" alt="pong game in action">
+
+<p> Just for fun, I wrote a little program that uses the Picoboard to
+control a 1-player Pong game. The slider moves the paddle, and when
+you miss the ball, pushing the button serves the ball. This is a very
+basic game. The only "score" is that it records the number of times
+you've missed the ball. </p>
+
+<b>Downloads for this project</b>
+<ul>
+<li><a href="pong1_pico.sb">pong1_pico.sb</a> - the Scratch
+program for the Picoboard pong game</li>
+</ul>
+
+<hr>
+
+<h3>Picoboard data collection and plotting</h3>
+
+<img src="light_data18July.gif" alt="graph of light data">
+
+<p> This project involves two separate Scratch programs: one to
+collect data using a Picoboard (data_collector.sb), and a different
+one to plot the data (data_plotter.sb). These are not
+industrial-strength data processing programs! They are just programs
+that let you explore data sets created by sampling a sensor over
+regular intervals. You can do some basic investigation on the data by
+plotting it and finding the time when some event happened (like a
+sudden fall in light levels, if you were monitoring the light
+sensor). </p>
+
+<p> An example plot is shown above. This shows the result of
+positioning the Picoboard in front of a west-facing window and
+monitoring the light sensor for 24 hours, starting at 11pm. The
+horizontal line shows a tick for every hour.</p>
+
+<b>Downloads for this project</b>
+<ul>
+<li><a href="Fun_with_Data.pdf">Fun with Data</a> - a document that
+tells you everything you need to know about collecting and plotting
+data with these programs</li>
+<li><a href="data_collector.sb">data_collector.sb</a> - the Scratch
+program that uses the Picoboard to collect the data</li>
+<li><a href="data_plotter.sb">data_plotter.sb</a> - the Scratch
+program that draws a graph of the data</li>
+<li><a href="light_data_18July.txt">light_data_18July.txt</a> - a sample
+data set, in fact it's the data set that generated the plot above</li>
+</ul>
+
+<hr>
+
+<h3>Watching Ice Melt or Fun with Thermistors</h3>
+
+<img src="ice_data17July.gif" alt="graph of temperature data">
+
+<p> There are four analogue inputs at the bottom of the Picoboard,
+labelled A through D. I had the idea of freezing some kind of
+temperature sensor into a block of ice and monitoring the temperature
+as it melted. The temperature of an ice block left in a warm place is
+supposed to rise to 0C, then level off at 0C while it melts, and then
+start to rise again after it all melts. I wanted to try to see this
+for myself. I found that a thermistor is the temperature sensor that I
+needed (the analogue inputs really measure resistance, and the
+restistance of a thermistor varies with temperature), so I froze a
+thermistor in a block of ice, hooked the ends of the thermistor up to
+the crocodile clips plugged into one of the analogue inputs, and used
+my data_collector.sb program to record the results as it melted. Then
+I plotted it using my data_plotter.sb program. </p>
+
+<p> One of my plots is shown above. You can see clealy that the
+temperature rises sharply when the ice block is just out of the
+freezer, then levels off as it melts, then rises again after it is all
+melted. The horizontal line has one tick per hour. </p>
+
+<b>Downloads for this project</b>
+<ul>
+<li><a href="melting_ice.pdf">Watching Ice Melt</a> - a document that
+tells you everything you need to know about doing this experiment</li>
+<li><a href="data_collector.sb">data_collector.sb</a> - the Scratch
+program that uses the Picoboard to collect the data</li>
+<li><a href="data_plotter.sb">data_plotter.sb</a> - the Scratch
+program that draws a graph of the data</li>
+<li><a href="ice_data_17July.txt">ice_data_17July.txt</a> - a sample
+data set, in fact it's the data set that generated the plot above</li>
+</ul>
+
+<hr>
+
+<h3>Lego WeDo projects coming soon!</h3>
+
+</div> <!-- /content -->
+
+<div id="menu">
+<!--#include virtual="../sub_menu.html" -->
+</div> <!-- /menu -->
+
+<div id="footer">
+<!--#include virtual="../sub_footer.html" -->
+</div> <!-- /footer -->
+
+</div> <!-- /wrap -->
+</body>
+</html>

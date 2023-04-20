@@ -1,0 +1,296 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>CatEye TL-LD500 Tail Light Modification</title>
+</head>
+ <body text="#000000" bgcolor="#ffffff" link="#0000ff" vlink="#990066" alink="#ff0000">
+      
+<center><h1> CatEye TL-LD500 Tail Light Modification</h1></center>
+<center><h2>by Bill Paxton</h2></center>
+
+<blockquote>
+<p>  Hi. This is inspired by <a
+  href="http://simon.trinhall.cam.ac.uk/bike/tips.html"> Myra
+  VanInwegen's Bike Articles</a> , especially the ending statement on
+  the <a href="http://simon.trinhall.cam.ac.uk/bike/LEDupgrade.html">
+  LED Upgrades</a> page. Myra, Simon... Thanks for such a great
+  site. </p></blockquote>
+
+      <h1> Dissection 101</h1>
+
+<blockquote>
+<p> Actually no, the board is not solidly soldered into place. Upgrade
+away!  The battery tabs have angled latchy bits (teeth?) that grip the
+plastic; They go in easily but remove with a bit more difficulty. To
+remove the circuit board, just stick a (strong) flat tip screwdriver
+under the battery contacts and apply some upward force. You can work
+between the plastic cracks and try to flatten the "teeth" down a bit
+to make removal easier, but in the two that I've modded they removed
+without too much effort... or fear of breaking them. As long as you
+know it's not glued down I'm sure you'll figure out how to remove it
+without breaking it. Just remember to do both ends at the same time;
+if you pop a trace off the board while flexing it, that's more repair
+work for you. :-) </p></blockquote>
+<br>
+
+
+<table border=0 align=center hspace=5 vspace=5>
+<tr>
+<td><IMG SRC="images/cateye_TL-LD500_apart.jpg" alt="Cateye dissected"
+BORDER="0" width=379 height=240></td>
+<td><img src="images/TL-LD500_tab_teeth.jpg" 
+alt="Battery tab teeth close-up" height="225" width="227"></td>
+<tr><td align="center"><i>Dissected Cateye TL-LD500</i></td>
+<td align="center"><i>Battery tab teeth close-up</i></td>
+</tr>
+</table>
+<br clear=all>
+<br clear=all>
+
+<table border=0 align=right width=300 hspace=5 vspace=5>
+<tr><td align="left">
+<img src="images/TL-LD500_basic_schematic.jpg" height="281" width="287">
+</td></tr>
+<tr><td align="center">
+<i>Basic schematic</i></td></tr>
+</table>
+
+      <h1> The bored, err, board</h1>
+
+<p> Don't you have more important things you should be doing? Since
+ the point of this is to make the tail light more visible cheaply, we
+ won't discuss the chip under the epoxy dot. I have no interest in
+ reverse engineering a $1 blinkie and neither should you. The basic
+ (partial) schematic is shown to the right.</p>
+
+<p> Ok, ok, it didn't cost <i>you</i> $1... but to bother
+reverse-engineering this? Volume coupled with exchange rate and I'm
+guessing this thing doesn't cost half a dollar.</p><br clear=all>
+
+<table border=0 align=center hspace=5 vspace=5>
+<tr>
+<td><img src="images/TL-LD500_stock_frontside.jpg" height="197" width="377"></td>
+<td><img src="images/TL-LD500_stock_backside.jpg" height="186" width="341"></td>
+<tr><td align="center">
+<i>Front, left to right: capacitor, LED row, and the magic black dot.</i></td>
+<td align="center">
+<i>Back, left to right: PNP transistor, 3 resistors, and the switch.</i></i></td>
+</tr>
+</table>
+<br clear=all>
+             
+      <h1> Modifications!</h1>
+   <b>1) Add two more LEDs</b>
+           
+<blockquote> <p>I mean, come on. It's the TL-LD500. 5. As in 5 LEDs I
+ bet. Yeathere's those two extra sets of holes in plain sight, what
+ else would have motivated starting this project in the first place?
+ Since all LEDs are parallel, adding more will lower the brightness of
+ the others. Not because they're parallel mind you, but because the
+ transistor's resistor coupled with base current is limiting what can
+ get there in the first place. More on that in a minute.  The end
+ result on brightness depends on what type, color, and efficiency LED
+ you add.&nbsp;</p></blockquote>
+
+<b> 2) Swap out the stock LEDs</b>   
+<blockquote> 
+<table border=0 align=right width=110 hspace=5 vspace=5>
+<tr><td align="center">
+<img src="images/clear_beside_diffuse.jpg" alt="" width="104" height="85"></td></tr>
+<tr><td align="center">
+<i>Diffused and clear</i></td></tr>
+</table>
+           
+      <p>The stock ones are diffused and fairly wide angle. They're pretty
+ good LEDs in my lights, actually. Fairly bright and ~625nm red color. But
+ technology marches on; there's always better and brighter available, every
+ few months.&nbsp;</p>
+</blockquote> 
+
+<b>3) Combine 1) and 2)</b>               
+<blockquote>
+      <p>You could take out the stock LEDs and move the two outer ones inward, 
+ while inserting more directional ones on the ends and center.&nbsp; </p>
+               
+      <p>There is one note about the addition of LEDs: they are all driven
+ parallel and there's only one resistor, meaning current will flow according
+ to the individual LEDs... try to match the V<i>fd</i> or use all the same
+ LEDs or you could end up with widely varying brightness across them. </p>
+</blockquote>
+
+<b>4) Angle of incident light (first real modification)</b>
+               
+<blockquote> <p>The point is to be seen easier and from farther
+away. If you get LEDs that are too narrowly focused it will help
+greatly for spotting you on a flat road hundreds of yards away, but
+that's it. To compensate, experiment.  On the two outside LEDs stick
+something under the inner-most lead when soldering to "kick it out" to
+the outside, a bit. A 22 gauge wire or small resistor or something,
+you don't want it shining directly sideways.&nbsp; </p>
+               
+      <p>Because of the curve of the plastic and the cut of the reflector
+ cubes you can get a GREAT IMPROVEMENT over the stock light for off-axis
+viewing.  I don't suggest angling any of the other LEDs to the sides in the
+slightest. </p>
+
+ <p> What I <i>do</i> suggest is angling the center LED up a few
+degrees. Yep.  Think about it. If you mounted your light on your
+seatpost just under your ass, you have it in about as optimal a spot
+for a seated driver in a passenger car as you can get. But what about
+something sitting higher like a pickup, or Navigator-ish beast, or my
+favorite road buddy the Kenworth W900?</p>
+
+ <p> I highly suggest you blind them with one LED, anyway. Someone cussing your
+obnoxious blinkie is better than getting squished. </p>
+</blockquote>
+
+<table border=0 align=center hspace=5 vspace=5>
+<tr>
+<td><img src="images/TL-LD500_mod_frontside.jpg" height="206" width="411"></td>
+<td><img src="images/TL-LD500_mod_backside.jpg" height="192" width="419"></td>
+<tr><td align="center">
+<i>All replaced with edge ones slightly angled outwards.</i></td>
+<td align="center">
+<i>back showing shunted base resistor</i></td>
+</tr>
+</table>
+<br clear=all>
+
+<b>5) Epileptic Fit</b>    
+          
+<blockquote> <p>Ok, the 360k resistor has both leads going into the
+epoxy dot. It controls the flash rate in blink mode. It's still going
+to be the same pattern; flash-flash-flash, pause. But you can speed it
+up or slow it down by changing this. If you take it really low it gets
+to behave like a strobe light! If you go lower than that, it'll just
+stay on solid for a short while and proceed to fry your LEDs. See LEDs
+cheat when flashing, they use much more current then they can
+continuously sustain in these abbreviated duty cycles. (so do all your
+remote controls' infrared LEDs)&nbsp; </p>
+               
+      <p>The quickest mod is to parallel a 1M resistor with it. That
+is the same as desoldering that one and putting in a 270k, which makes
+it appear more "urgent" to my test subjects.&nbsp; (about 1/3rd faster
+rate)&nbsp;</p>
+               
+<p>I wouldn't make it any lower than 100k, and even that value I have
+problems with as a useful bike light. You really don't need to adjust
+this; &nbsp;it's here nonetheless.&nbsp;</p></blockquote>
+
+<b>6) So I rewired it...</b>              
+
+<blockquote><p>You are now entering Tim Taylor territory. While what
+I'm about to tell you works, and probably (probably) won't catch fire
+or send you to the hospital or explode your taillight. I DID THIS, I
+AM NOT TELLING YOU TO DO THIS.&nbsp; <br> If you do and it
+hurts... it's your fault.&nbsp; </p>
+               
+<p>Ok since the LEDs are parallel through that one 2.4 ohm resistor,
+we have a limiting factor. But do the math for +3V and LEDs with an
+average 2.0V<i>fd</i> and you'll see this is not the bottleneck. And
+because of the magic black dot on the other side of that 330 ohm
+resistor, we have an unknown I<i>b</i> situation. (since transistors
+only do one thing...)&nbsp;
+ </p>
+               
+<p>Again I don't want to reverse engineer this thing but suffice to
+say that if you lower the base resistor then there's going to be
+(probably!)  more I<i>b</i> and therefore more I<i>c. </i>Sure enough
+if you parallel another resistor here you will get a slight increase
+in brightness. SO I REWIRED IT. Bypass the resistor completely.&nbsp;
+:-)&nbsp; </p>
+               
+<p>Seriously I (nor you) have any idea what the magic black dot is
+providing, is capable of providing, nor is expecting to see as a
+load. You could measure and extrapolate. But oh well. It'll make your
+average current go to ~50mA (from 40mA) in continuous on mode if you
+shunt the 330 ohm resistor.&nbsp; No other side effects like smoke or
+pain, yet. It's been awhile.&nbsp;</p></blockquote>
+   
+      <h1> How bright is it?</h1>
+
+<table border=0 align=right width=350 hspace=5 vspace=5>
+<tr><td align="left">
+<img src="images/test_rig.jpg" height="428" width="136" align="Left"></td>
+<td align="center">
+<i>To compare accurately I devised a rig to make the shots as fair as
+possible - both mounted to a tension pole on their provided reflector brackets,
+same angle and same distance from the center of the camera lens.<br>
+  (give or take a millimeter, sheesh!)</i></td></tr>
+</table>
+
+       
+<h1>It is so bright that...</h1>
+
+<blockquote>
+
+<p> Well ok, it's brighter. How much so? It's alot, actually.&nbsp; More than 
+ I expected. But only about 24 hours on constant, and I'm not sure on flashing 
+but I assume the same percentage of reduction.</p>
+
+      <p>I went with current generation 2000mcd 640nm 30&deg; 50mA
+AllnGaP waterclear LEDs which certainly qualify as "high brightness"
+staring at one at 3' will make you see color-negative spots for
+awhile. These are also "deeper" red than the stock ones. While the
+original light is rated at 6000mcd for 3 LEDs also, we all know that
+gets skewed for sales not specifications. They are certainly not
+2000mcd each - being wider angle and diffused they'd be brighter than
+my replacements! </p>
+       
+      <p>How much brighter you LED swap will be will depend on what
+LEDs you went with and if / how you modded the circuit. If you don't
+have LEDs already, remember that one man's "high out" is another man's
+"burnt out" - some companies will sell 200mcd as superbrights while
+another sells 1500mcd versions with the same angle. Don't get suckered
+by the whole angle issue - <i>of course </i> a narrower beam will have
+more millicandelas at a fixed distance target - but that doesn't mean
+it's brighter. Only compare apples to apples.</p>
+       
+      <p>At a measured 100m, it's apparently 6x as bright according to
+test guinea pigs.. er, volunteer ocular technicians. BTW it makes a
+great pocket flashlight now too. </p>
+              
+      <p>I wish the ol digicam took better pics; it cannot. Again,
+technology marches on. There are much better cameras than a Olympus
+D-320 today, but hey it's paid for and still works. The pictures don't
+do the lights justice; but both are crippled equally.  The ratio is
+about the same; that is, the modified one swamps the stock one in all
+aspects. </p>
+</blockquote>
+
+<br clear=all>
+
+<blockquote>
+<table border=0 align=left width=221 hspace=5 vspace=5>
+<tr><td align="left"><img src="images/6m_on_axis.jpg" height="211" width="188">
+</td></tr>
+<tr><td align="center">
+<i>this is 6m away on-axis</i></td></tr>
+</table>
+
+      <p>Total mod cost was under $3. Makes for a great bag
+blinkie. And a spare taillight or even primary taillight if you want
+to risk it. Certainly more visible than the stock TL-LD500. It's still
+not as noticable as a Vistalite Total Eclipse, but then the Vistalite
+has a special magnifying reflector and does NOT meet
+C.P.S.C. qualifications as a reflector.</p>
+       
+      <p>It goes without saying (well not now) that you could modify a clear
+front version of the LD500 to have some seriously bright orange/amber LEDs
+(a very efficient wavelength)</p>
+
+      <p> Again, thanks to Myra for the original tweak idea.</p>
+
+      <p> Bye!<br clear=all>
+
+</blockquote>
+
+<table border=0 align=center width=350 hspace=5 vspace=5>
+<tr><td align="left"><img src="images/wall_from_1m.jpg" height="384" width="512">
+</td></tr>
+<tr><td align="center">
+<i>both lights shining on a white wall from 1m</i></td></tr>
+</table>
+
+</body>
+</html>

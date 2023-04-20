@@ -1,0 +1,92 @@
+12.2) Adding an IC regulator to a wall adapter or battery
+From Sci.Electronics.Repair FAQ: Various Schematics and Diagrams
+http://www.repairfaq.org/REPAIR/F_samschem.html
+
+
+For many applications, it is desirable to have a well regulated source
+of DC power.  This may be the case when running equipment from
+batteries as well as from a wall adapter that outputs a DC voltage or
+the enhanced adapter described in the section: "Converting an AC
+output wall adapter to DC".
+
+The following is a very basic introduction to the construction of a
+circuit with appropriate modifications will work for outputs in the
+range of about 1.25 to 35 V and currents up 1 A.  This can also be
+used as the basis for a small general purpose power supply for use
+with electronics experiments.
+
+What you want is an IC called an 'adjustable voltage regulator'.
+LM317 is one example - Radio Shack should have it along with a
+schematic.  The LM317 looks like a power transistor but is a complete
+regulator on a chip.
+
+Here is a sample circuit:
+
+                    I +-------+ O                       
+ Vin (+) o-----+---| LM317 |---+--------------+-----o Vout (+)
+               |   +-------+   |              |
+               |       | A     /              |
+               |       |       \ R1 = 240     |
+               |       |       /              |           ___
+              _|_ C1   |       |            +_|_ C2      |_0_|  LM317
+              --- .01  +-------+             --- 1 uF    |   |  1 - Adjust
+               |  uF   |                    - |          |___|  2 - Output
+               |       \                      |           |||   3 - Input
+               |       / R2                   |           123
+               |       \                      |
+               |       |                      |
+ Vin(-) o------+-------+----------------------+-----o Vout (-)
+
+Note: Not all voltage regulator ICs use this pinout.  If you are not
+using an LM317, double check its pinout - as well as all the other
+specifications.
+
+For the LM317:
+
+1. R2 = (192 x Vout) - 240, where R2 in ohms, Vout is in volts and
+   must be at between 1.2 V and 35 V.
+
+2. Vin should be at least 2.5V greater than Vout.  Select a wall
+   adapter with a voltage at least 2.5 V greater than your regulated
+   output at full load.
+
+   However, note that a typical adapter's voltage may vary quite a bit
+   depending on manufacturer and load.  You will have to select one
+   that isn't too much greater than what you really want since this
+   will add unnecessary wasted power in the device and additional heat
+   dissipation.
+
+3. Maximum output current is 1 A.  Your adapter must be capable of
+   supplying the maximum current safely and without its voltage
+   drooping below the requirement in (2) above.
+
+4. Additional filter capacitance (across C1) on the adapter's output
+   may help (or be required) to reduce its ripple and thus the swing
+   of its input. This may allow you to use an adapter with a lower
+   output voltage and reduce the power dissipation in the regulator as
+   well.
+
+   Using 10,000 uF per *amp* of output current will result in less
+   than 1 V p-p ripple on the input to the regulator.  As long as the
+   input is always greater than your desired output voltage plus 2.5
+   V, the regulator will totally remove this ripple resulting in a
+   constant DC output independent of line voltage and load current
+   fluctuations.  (For you purists, the regulator isn't quite perfect
+   but is good enough for most applications.)
+
+   Make sure you select a capacitor with a voltage rating at least
+   25% greater than the adapter's *unloaded* peak output voltage
+   and observe the polarity!
+
+   Note: wall adapters designed as battery chargers may not have
+   any filter capacitors so this will definitely be needed with 
+   this type.  Quick check: If The Voltage On The Adapter's output 
+   drops to zero as soon as it is pulled from the wall - even with
+   no load - it does not have a filter capacitor.
+
+5. The tab of the LM317 is connected to the center pin - keep this in
+   mind because the chip will have to be on a heat sink if it will be
+   dissipating more than a watt or so.  P = (Vout - Vin) * Iout.  
+
+6. There are other considerations - check the datasheet for the LM317
+   particularly if you are running near the limits of 35 V and/or 1 A.

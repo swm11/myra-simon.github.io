@@ -1,0 +1,330 @@
+<html>
+<head>
+<title>DIY Bike Lights</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#0000C0">
+<h1>DIY Bike Lights</h1>
+
+<h4>Other pages</h4>
+
+<blockquote>
+
+<p> This article is somewhat out of date. The main problem with it is
+that many of the lighting heads I recommend are no longer available.
+Until I get around to bringing it up to date, I recommend you check
+out some other DIY lights pages to see what they're using for
+lighting heads.
+<ul>
+<li> A <a href="http://www.mcs.surrey.ac.uk/Personal/csx1jw/lights.htm">
+lighting system</a> using MR11 bulbs in plumbing fixtures
+<li> Simon Ward's 
+<a href="http://www.blinkyfish.freeserve.co.uk/Cycling/knite.html">
+lighting system</a> based on Knightlite lighting heads
+</ul>
+
+</blockquote>
+
+<h4>My DIY lights</h4>
+
+<p> I'm no electrical nor mechanial engineer, so the systems I describe
+here are pretty easy to put together. They consist of
+<ul> 
+<li> commercial lighting heads
+<li> 6V lead-acid or NiCad batteries
+<li> cords to connect the batteries to the lights
+<li> good chargers for the batteries
+</ul></p>
+
+<p> You only need normal basic tools (screwdrivers, etc) and a few
+specialist electrical tools (a soldering iron and multimeter). </p>
+
+</blockquote>
+
+<h2>Ingredients</h2>
+
+<h4>Lighting heads</h4>
+
+<blockquote>
+
+<p> I like to use lighting heads that have the same type of connector,
+a barrel connector with inner diameter 2.5mm and outer diameter
+5.5mm. Many 6V commercial lighting heads come with this connector,
+including the VistaLite 
+<a href="http://www.vistalite.com/vis2a.htm">400</a> and 
+<a href="http://www.vistalite.com/vis2b.htm">500</a> series lighting heads, 
+<a href="http://www.niterider.com/products/products.html">NiteRider
+6V systems</a>, and the 
+<a href="http://www.specialized.com/">Specialized Proview</a>. </p>
+
+<p> The VistaLite lighting heads are the easiest to get on their own,
+since they are sold as separate products. The lighting head sold as
+the VistaLite 400 (stand-alone 2W light requiring 4 AA batteries) is
+exactly the same as that included in the VistaLite 410 (rechargeable
+version of 400) and 420 and 430 lighting systems (which have one or
+two lighting heads loaded with 10W bulbs and external lead-acid
+batteries). It costs about £15. To use the VistaLite 400 in a
+high-powered lighting system, replace the bulb with a 6W or 10W
+bulb. You get get frosted 10W bulbs from a VistaLite dealer, but clear
+6W or 10W bulbs are also useful.  In the UK you can get these clear
+bulbs from Edinburgh Bicycle (you're looking for the Reflectalite
+bulbs that go into 420 or 430 lighting systems). In the US try any
+caving supply shop, such as <a href="http://www.caves.org/imo/">Inner
+Mountain Outfitters</a>. You're looking for 6V Mini Edison Screw (MES)
+bulbs. </p>
+
+<p> The VistaLite 500 is a very small light lighting head, based on an
+MR-11 bulb, and it's sold as an upgrade to the 420 and 430 lighting
+systems (it's compatible with them in that the both have the same kind
+of plug and operate at 6V). The VistaLite 500 head is also available
+included in the VistaLite 520, 530 and 540 lighting systems. However,
+it costs about £33.   <p>
+
+<p> See the <a href="light-rev.html">Lighting Systems Review</a>
+section for VistaLite 400 and VistaLite 500 systems to find more
+detailed decriptions of these lighting heads (and about tradeoffs
+between frosted and clear bulbs). If you can't find these products in
+your local shops, find a shop that sells VistaLite products (rear
+flashers are the most common) and get then to order the parts for
+you. </p>
+
+<p> Good alternatives to the VistaLite heads are the lighting heads
+that come with the MR-11 based NiteRider 6V systems and Specialized
+Proview. However, as far as I know, these are not products that you
+can buy separately, although you may be able to order them from the
+manufacturer as spare parts. They are still good alternatives if you
+want to use a commerical lighting system as a starting point for your
+system. For example, a NiteRider Pro-6 gives you an excellent 5
+amp-hour water bottle battery and lighting head with 15W bulb. Of
+course, you can also buy VistaLite systems as the starting point of
+your lighting setup. </p>
+
+<p> A particularly good starting point is the
+Specialized Proview Alkaline, which consists of a lighting head,
+water-bottle shaped battery case with power cord, helmet mount, and
+waist pack for putting the battery case in if you want to carry it on
+your body. They intend you to put 5 D-sized alkalines in the battery
+case, but you can do your own thing. Options include putting in
+NiCads, cutting the cord off and attaching it to a soldered-up NiCad
+pack or to a lead-acid battery. It costs about £35, giving it real
+value-for-money. </p>
+
+<p> If you want a helmet light (a very good idea for off-road riding,
+as it can be directed where you want it to see much better around
+bends), make sure you get at least one light that can be
+helmet-mounted. All of the ones I've mentioned except the VistaLite
+400 can be mounted on a helmet. Sometimes if you buy a system, the
+helmet mount comes with it. This can be a further advantage of buying
+a system. </p>
+
+<p> How many lighting heads do you need? Well, for on-road riding I'd
+go for two: a high and low beam on the handlebars. The low beam is for
+seeing where you're going when you're not going too fast, and the high
+beam is for when you're going faster, or for when a car is coming and
+you want to make sure you've been seen. I use 6W as my low beam and
+10W as my high beam; some others prefer brighter lights (such as 10W
+low, 20W high). For off-road riding I'd go for three lighting heads,
+two on the bars as described above, and one on the helmet. I have a 5W
+spot helmet light, and it's surprisingly effective. </p>
+
+</blockquote>
+
+<h4>Batteries</h4>
+
+<blockquote>
+
+<p> Your main choice is lead-acid or NiCad. Enthusiasts may want to
+use NiMH batteries. I have a lighting system that uses NiMH batteries
+(a <a href="http://home.clara.net/lumicycle/">Lumicycle</a>), but
+there's nothing home made about it! The main difficulty with NiMH
+batteries from a DIY perspective is getting a charger that works with
+the batteries. For more info see my article on 
+<a href="charger3.html">NiMH chargers</a>. </p>
+
+<p> See the <a href="lights.html#bat-type">battery section</a>
+of my <a href="lights.html">High-Powered
+Bike Lights</a> article to decide whether lead-acid or NiCad is best
+for you.  I feel that for general use with a 6V system, you should
+have something like 5 amp-hours of power, or at least 4 amp-hours. A 5
+amp-hour battery will power a 6W bulb for close to 5 hours. Of course
+higher powered lights will give you shorter run time. While you may
+not ever think that you will need this much capacity, it's good to
+have it for emergencies. Since this battery will go on the bike, if
+it's a NiCad battery, it should be in a water bottle style case so it
+fits with less hassle. If you get a wide-mouth water bottle with a
+screw cap, you can put the cells into the water bottle without cutting
+it up. See <a href="bott-batt.html">here</a> for instructions. </p>
+
+<p> If you use your lighting system in the same way I do mine, you'll
+only turn on a helmet light when you're on twisty tracks, and you will
+want your main light on the handlebar. Since you won't be burning as
+much power with your helmet light, so you can get away with a smaller
+battery. I'd recommend 2.5 to 2.8 amp-hours. Since you'll want this
+battery to be on your body (say in a jersey pocket, water pack, or bum
+bag), you'll want it to be flat. So a rectangular pack is best
+here. </p>
+
+<p> The best lead-acid batteries I know of are made by Hawker
+Energy. See their 
+<a href="http://www.hepi.com/vacvad.htm">list of distributers</a>.
+NiCad cells are available from many electronics supply places, like
+Radio Shack, Tandy, Farnell, Radio Spares, and Maplin. A very nice
+place to get high-quality, reasonably-priced batteries in the US is 
+<a href="http://nicdlady.com/">The NiCad Lady</a>. </p>
+
+</blockquote>
+
+<h4>Cords</h4>
+
+<blockquote>
+
+<p> You need some cords with a barrel connector plug, with inner
+diameter 2.5mm and outer diameter 5.5mm. Most bike lighting systems
+come with "curley cords", curled springy cords that stretch to be
+whatever length you need them to be. They are very convenient. However
+the wires are often very thin and (uncurled) they are quite long, so
+they can have significant resistance. You could end up burning up to
+1W of power in your cord! If you know where you will be attaching your
+battery and your lighting heads, you can make up custom, fixed-length
+cords with thicker wire that has very little resistance. </p>
+
+<p> You can easily get non-curley cords with these connectors in the
+US, from an electronics store in Massachusetts, 
+<a href="http://www.you-do-it.com/">"You-do-it" Electronics Center</a>.
+A poster on the bikecurrent mailing list (sorry, I
+forgot who!) wrote "They stock Philmore 5.5/2.5 mm right-angle plugs
+molded onto 6-foot leads, part number TC250, for $1.99 each.  They are
+of the proper barrel length and have been a real headache-solver for
+me.  "You-do-it" publishes a catalog/buyer's guide (for $2.50), so you
+should be able to mail-order from them." I have made all of my power
+cords from these plugs, and they work perfectly. 
+</p>
+
+<p> I have not found a source for something similar in the UK. You can
+get barrel connectors from Maplin, CPC, Radio Spares, and Farnell, but
+you'll have to solder wires to them yourself. They are not nearly as
+convenient nor as robust as the Philmore plugs. If you would like a few
+of the Philmore plugs, I have some left over from my last order. 
+<a href="mailto:mvi20@cl.cam.ac.uk">Contact me</a> if you're interested.
+</p>
+
+</blockquote>
+
+<h4>Putting the cord on the battery</h4>
+
+<blockquote>
+
+<p> I've bought both VistaLite (430) and NiteRider (Pro-6) systems,
+and they both came with batteries that were wired up with the positive
+voltage in the middle of the barrel connector. So I wired up my
+home-made batteries and chargers the same way. If you have barrel
+connectors with attached cords, you need the multimeter to find out
+which wire goes to which part of the connector.</p>
+
+<p> There are a couple of options about connecting the cord to the
+battery. One is whether or not to include a fuse in the cord. If for
+some reason you get a short somewhere, you can drain and destroy your
+battery pretty quickly, as well as creating alot of heat. If you put a
+fuse in the battery (preferably in with the cells, even before it gets
+to the cord part) it will burn out, protecting your battery and
+yourself. </p>
+
+<p> Another option is: if you're powering more than one lighting head
+from your battery, do you bring one cord from the battery for each
+lighting head, or have a cord that comes from the battery, then splits
+near the lighting heads to provide several connectors on short cords?
+VistaLite prefers the first approach, as they include two cords on
+their multiheaded systems. This solution seems to be preferred by the
+denizens of the bikecurrent mailing list for redundancy: if one cord
+for some reason gets cut or breaks (but not in a way that it shorts
+out), the other will continue to work, powering one of your lighting
+heads. I find that it's neater to use the one-cord, two-connector
+approach, so I do that and take the risk.
+
+</blockquote>
+
+<h4>Chargers</h4>
+
+<blockquote>
+
+See the <a href="lights.html#charging">charging</a> section of the 
+<a href="lights.html">High-Powered Bike Lights</a> article.
+
+</blockquote>
+
+<h2>My Choices</h2>
+
+<blockquote>
+
+<p> My current setup for off-road night riding involves two lighting
+heads on my handlebars, one light on my helmet, and two batteries.
+The handlebar setup is a 5 amp-hour NiteRider NiCad water bottle
+battery, a VistaLite 400 head with 6W unfrosted bulb, and VistaLite
+500 head with 10W bulb. I adjust the beam of the VistaLite 400 until
+it's pretty wide, and I point it to the ground in front of the
+bike. The VistaLite 500 has a spot bulb. I aim it at the far end of
+the pool of light created by the 400 head. It thus serves as a high
+beam, to alert me to things coming from a reasonable distance
+away. </p>
+
+<p> I have removed the cord that came with the NiteRider battery and
+replaced it with a non-curley cord that splits into two barrel
+connectors to power the lights. </p>
+
+<p> For a helmet light, I use a VistaLite 500 head powered by a 2.8
+amp-hour battery made from 5 high-capacity C-sized NiCad cells. I have
+a 5W spot bulb in the lighting head. Since I can point it exactly
+where I want it, it's surprisingly useful despite not being
+amazingly bright. Also, if I run out of power in my main battery, I
+can use this one to power the handlebar light until I get home. I need
+to make up a nylon case for it so I can attach it to the frame to do
+this. The cord I use on this battery pack is the curley cord that was
+cut off the NiteRider battery. It is useful to have a flexible cord
+for this situation, since the distance from the battery to the light
+changes somewhat as I move my head. </p>
+
+<p> Note that my helmet light it pretty much equivalent to the
+<a href="http://www.night-sun.com/htmldocs/sunsport.html">
+NightSun SunSport</a>. This is partly intentional, as I knew about the
+SunSport and its reputation as I was making mine. </p>
+
+<p> This setup works great for me. I turn on only the 6W handlebar
+light when we're on the road, getting to trails, or coming back from
+the pub after a ride. When I hit dirt I'll turn on either the 10W
+handlebar light, the 5W helmet light, or both. Since the off-road
+rides I go on are usually about 1.5 hours, and my battery can power
+the helmet light for maybe 2.5 hours, I tend not to spare the helmet
+light. I turn it on for any reason, for example to give some light to
+someone repairing a puncture. </p>
+
+<p> Some people (but no one that I've ever ridden with!) use only
+helmet mounted lights. But there is a problem with this: since the
+light is very near your eyes, you don't see shadows, so you get much
+less depth perception. </p>
+
+</blockquote>
+
+<h4>Redundancy</h4>
+
+<blockquote>
+
+<p> I don't carry spare bulbs, except for the VistaLite 400. It takes very
+small bulbs and has a large body, with loads of nooks and crannies for
+hiding spares. Thus it's silly not to carry one. </p>
+
+<p> I don't carry spares for the VistaLite 500 lights on my handlebar
+or the helmet. In fact, if the bulb on the VistaLite 400 blew on a
+night ride I'd probably just continue the ride and fix it when I'm
+back home. Since I have 3 lighting heads in total, I figure I'll have
+enough lights anyway. </p>
+
+<p> Also note that I have two batteries which have the same kinds of
+plugs on them, so I can use them interchangeably. Actually the main
+use of this will be if I stay out too long, burning down my main
+battery, and then I can use the helmet light battery to power a
+handlebar light.</p>
+
+</blockquote>
+
+<a href="tips.html">More bike and light articles</a>
+</body>
+</html>

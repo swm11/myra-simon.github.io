@@ -1,0 +1,26 @@
+This is a quote from a message on the bikecurrent mailing list last week
+from Matt O'Toole:
+
+        NiMH do have their downsides.  First, there's the charging
+        issue:  it's not difficult to build a good NiMH charger, it's
+        just that nicad chargers are everywhere, and NiMH hasn't taken
+        over yet.  Also, NiMH can be damaged more easily by leaving
+        them on a trickle charger.  NiMH have very high self discharge
+        rates, about three times that of nicads.  So, they're far less
+        tolerant of storage, and not well suited to intermittent use.
+        They last through far fewer cycles than nicads, so continually
+        topping them up will shorten their life.  Finally, they're
+        expensive.  Though cell prices are dropping, and will probably
+        match nicads' soon, they'll always be much more expensive when
+        their much shorter life is factored in.
+
+
+<p> Because the batteries get hot after they are fully charged, the
+best method of detecting a full battery is to monitor the temperature
+of the battery and go to the low current when the battery starts
+heating up. This is called the dT/dt method. Altough this is the best
+method of doing smart charging, it is not the method that we use for
+our smart charger, since it would involve putting thermistors in with
+the battery pack, and providing an extra cord from the battery to the
+charger to detect the temperature. Furthermore, the charger would be
+more expensive. </p>

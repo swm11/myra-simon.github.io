@@ -1,0 +1,63 @@
+body 
+{
+  background:MediumPurple;
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:85%;
+}
+#wrap 
+{
+  width:800px;
+  margin:0 auto;
+  background:white;
+  padding:10px;
+  color:black;
+}
+
+#header 
+{
+  padding:0px;
+  background:white;
+}
+
+#menu
+{
+  float:left;
+  width:110px;
+  padding:25px 15px 15px 15px;
+  background:white;
+}
+ul.menu
+{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+ul.menu2
+{
+  list-style-type:none;
+  margin:0px 0px 0px 15px;
+  padding:0;
+}
+#myphoto
+{
+  padding:10px 0px 0px 0px;
+} 
+
+#content
+{
+  float:right;
+  width:640px;
+  padding:10px;
+  background:white;
+}
+
+#footer 
+{
+  clear:both;
+  padding:0px;
+  background:white;
+}
+#footer hr 
+{
+  display:none;
+}
