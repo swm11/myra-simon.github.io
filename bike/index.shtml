@@ -21,7 +21,11 @@
 <div id="wrap">
 
 <div id="header">
-<!--#include virtual="bike_header.html" -->
+  <!-- #include virtual="bike_header.html" -->
+  <!-- SWM included the file directly ->>
+      <h1>Myra's Bike Pages</h1>
+<img src="bike_banner.jpg" alt="MTB, commuting, touring">
+
 </div> <!-- /header -->
 
 <div id="content">
@@ -39,11 +43,32 @@ be.</p>
 </div> <!-- /content -->
 
 <div id="menu">
-<!--#include virtual="bike_menu.html" -->
+  <!-- #include virtual="bike_menu.html" -->
+  <!--SWM included the file directly ->>
+<ul class="menu">
+<li><a href="../index.shtml" class="menu">home</a></li>
+<li><a href="index.shtml" class="menu">cycling</a></li>
+    <ul class="menu2">
+    <li><a href="travel/index.html">touring</a></li>
+    <li><a href="ride-stories.html">ride stories</a></li>
+    <li><a href="tips.html">articles</a></li>
+    <li><a href="photos.html">photo gallery</a></li>
+    </ul>
+<li><a href="../dive/index.html" class="menu">scuba diving</a></li>
+<li><a href="../movies/index.html" class="menu">movies</a></li>
+<li><a href="../fish/index.html" class="menu">fishkeeping</a></li>
+<li><a href="../scratch/index.html" class="menu">scratch</a></li>
+</ul>
+<img src="../Myra_passport_cr.jpg" alt="Myra VanInwegen's photo" id="myphoto">
+
 </div> <!-- /menu -->
 
 <div id="footer">
-<!--#include virtual="bike_footer.html" -->
+  <!-- #include virtual="bike_footer.html" -->
+  <!-- SWM included the file directly ->>
+<hr>
+Myra VanInwegen (myra "at" myra "dash" simon "dot" com)
+
 </div> <!-- /footer -->
 
 </div> <!-- /wrap -->
