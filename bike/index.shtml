@@ -21,7 +21,6 @@
 <div id="wrap">
 
 <div id="header">
-  <!-- #include virtual="bike_header.html" -->
   <!-- SWM included the file directly ->>
       <h1>Myra's Bike Pages</h1>
 <img src="bike_banner.jpg" alt="MTB, commuting, touring">
@@ -43,8 +42,7 @@ be.</p>
 </div> <!-- /content -->
 
 <div id="menu">
-  <!-- #include virtual="bike_menu.html" -->
-  <!--SWM included the file directly ->>
+  <!-- SWM included the file directly ->>
 <ul class="menu">
 <li><a href="../index.shtml" class="menu">home</a></li>
 <li><a href="index.shtml" class="menu">cycling</a></li>
@@ -64,7 +62,6 @@ be.</p>
 </div> <!-- /menu -->
 
 <div id="footer">
-  <!-- #include virtual="bike_footer.html" -->
   <!-- SWM included the file directly ->>
 <hr>
 Myra VanInwegen (myra "at" myra "dash" simon "dot" com)
